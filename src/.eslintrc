@@ -1,0 +1,11 @@
+{
+  "extends": ["prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-unused-vars": 2,
+    "prettier/prettier": [2],
+    "no-empty-function": 2,
+    "array-element-newline": ["error", "always"],
+    "no-useless-constructor": 0
+  }
+}

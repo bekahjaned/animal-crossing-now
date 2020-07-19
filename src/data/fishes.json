@@ -1,0 +1,2784 @@
+[
+  {
+    "name": "Bitterling",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "March", "November", "December"],
+        "southern": ["May", "June", "July", "August", "September"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pale Chub",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Crucian Carp",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Dace",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Carp",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Koi",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Goldfish",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pop-eyed Goldfish",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Ranchu Goldfish",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Killifish",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August"],
+        "southern": ["January", "February", "October", "November", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Crawfish",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Soft-shelled Turtle",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September"],
+        "southern": ["February", "March"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Snapping Turtle",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Tadpole",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June", "July"],
+        "southern": ["January", "September", "October", "November", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Frog",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August"],
+        "southern": ["January", "February", "November", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Freshwater Goby",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Loach",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Catfish",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Giant Snakehead",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August"],
+        "southern": ["January", "February", "December"]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Bluegill",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Yellow Perch",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Black Bass",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Tilapia",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September", "October"],
+        "southern": ["January", "February", "March", "April", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pike",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November", "December"],
+        "southern": ["March", "April", "May", "June"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pond Smelt",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "December"],
+        "southern": ["June", "July", "August"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Sweetfish",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Cherry Salmon",
+    "location": "River (Clifftop)",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Char",
+    "location": "River (clifftop)",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Golden Trout",
+    "location": "River (clifftop)",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Stringfish",
+    "location": "River (clifftop)",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "March", "December"],
+        "southern": ["June", "July", "August", "September"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Salmon",
+    "location": "River (mouth)",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September"],
+        "southern": ["March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "King Salmon",
+    "location": "River (mouth)",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September"],
+        "southern": ["March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Mitten Crab",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November"],
+        "southern": ["March", "April", "May"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Guppy",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": ["January", "March", "April", "May", "October", "November"]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Nibble Fish",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "November", "December"]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Angelfish",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Betta",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": ["January", "February", "March", "November", "December"]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Neon Tetra",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Rainbowfish",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Piranha",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23, 24, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Arowana",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Dorado",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "name": "Gar",
+    "location": "Pond",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["December", "January", "February", "March"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Arapaima",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "April"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Saddled Bichir",
+    "location": "River",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [21, 22, 23, 24, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Sturgeon",
+    "location": "River (mouth)",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Sea Butterfly",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "March", "December"],
+        "southern": ["June", "July", "August", "September"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Seahorse",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Clownfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Surgeonfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Butterfly Fish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Napoleonfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "name": "Zebra Turkeyfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Blowfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "November", "December"],
+        "southern": ["May", "June", "July", "August"]
+      },
+      "hours": [21, 22, 23, 24, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Puffer Fish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "Septembe"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Anchovy",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "name": "Horse Mackerel",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Barred Knifejaw",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Sea Bass",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Red Snapper",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Dab",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": ["August", "September", "October"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Olive Flounder",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Squid",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Moray Eel",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October"],
+        "southern": ["February", "March", "April"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Ribbon Eel",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September", "October"],
+        "southern": ["January", "February", "March", "April", "December"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Tuna",
+    "location": "Pier",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ],
+        "southern": ["May", "June", "July", "August", "September", "October"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Blue Marlin",
+    "location": "Pier",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "July",
+          "August",
+          "September",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Giant Trevally",
+    "location": "Pier",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": ["January", "February", "March", "November", "December"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Mahi-mahi",
+    "location": "Pier",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Ocean Sunfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "name": "Ray",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October", "November"],
+        "southern": ["February", "March", "April", "May"]
+      },
+      "hours": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "name": "Saw Shark",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Hammerhead Shark",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Great White Shark",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Whale Shark",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Suckerfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Football Fish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "March", "November", "December"],
+        "southern": ["May", "June", "July", "August", "September"]
+      },
+      "hours": [16, 17, 18, 19, 20, 21, 22, 23, 24, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  },
+  {
+    "name": "Oarfish",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "December"
+        ],
+        "southern": [
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Barreleye",
+    "location": "Sea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [21, 22, 23, 24, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Coelacanth",
+    "location": "Sea (Rainy days)",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  }
+]

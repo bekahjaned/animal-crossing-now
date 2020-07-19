@@ -1,0 +1,26 @@
+// HEADER STYLING
+
+.center {
+  text-align: center;
+}
+
+// CRITTERCARD STYLING
+
+.critter {
+  width: 200px;
+  height: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+.critter-grid {
+  margin: 30px 0px 30px 0px;
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 30px;
+  justify-items: center;
+  justify-content: center;
+  grid-auto-flow: row;
+}
