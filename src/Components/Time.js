@@ -20,19 +20,34 @@ class Time extends React.Component {
       "December",
     ];
 
+    const updateTime = (k) => {
+      if (k < 10) {
+        return "0" + k;
+      } else {
+        return k;
+      }
+    };
+
+    let hour = updateTime(today.getHours());
+
+    let min = updateTime(today.getMinutes());
+
     this.state = {
-      time: today.getHours() + ":" + today.getMinutes(),
-      month: months[today.getMonth()],
-      date: today.getDate(),
+      time: hour + ":" + min,
+      date:
+        months[today.getMonth()] +
+        " / " +
+        today.getDate() +
+        " / " +
+        today.getFullYear(),
     };
   }
   render() {
     return (
       <div>
-        <h2>It's {this.state.time}</h2>
-        <h2>
-          On {this.state.month} {this.state.date}
-        </h2>
+        <h2>Time: {this.state.time}</h2>
+        <p>Please make sure to refresh page if the hour changes :)</p>
+        <h2>Date: {this.state.date}</h2>
       </div>
     );
   }
