@@ -1,20 +1,22 @@
 body {
   font-family: "Nunito", sans-serif;
+  background-color: #282828;
+  color: #f7f7f7;
 }
 
-// HEADER STYLING
+select {
+  background-color: #787575;
+  color: #f6f6f6;
+}
 
 .center {
   text-align: center;
 }
 
-// CRITTERCARD STYLING
-
 .critter {
   width: 200px;
   height: 100%;
-  background-color: grey;
-  color: white;
+  background-color: #2e2e2e;
   text-align: center;
 }
 
