@@ -46,6 +46,24 @@ class FishDisplay extends React.Component {
   };
 
   render() {
+    const availableFish = this.state.fishes.map((fish) => {
+      if (
+        fish.availability.hemisphere[this.state.user.hemisphere].includes(
+          this.state.user.month
+        ) &&
+        fish.availability.hours.includes(this.state.user.time)
+      ) {
+        return (
+          <CritterCard
+            image={fish.image}
+            name={fish.name}
+            location={fish.location}
+            key={fish.name}
+          />
+        );
+      }
+    });
+
     return (
       <div>
         <div>
@@ -60,26 +78,7 @@ class FishDisplay extends React.Component {
             </select>
           </label>
         </div>
-        <div className="critter-grid">
-          {this.state.fishes.map((fish) => {
-            if (
-              fish.availability.hemisphere[this.state.user.hemisphere].includes(
-                this.state.user.month
-              ) &&
-              fish.availability.hours.includes(this.state.user.time)
-            ) {
-              console.log(fish.image);
-              return (
-                <CritterCard
-                  image={fish.image}
-                  name={fish.name}
-                  location={fish.location}
-                  key={fish.name}
-                />
-              );
-            }
-          })}
-        </div>
+        <div className="critter-grid">{availableFish}</div>
       </div>
     );
   }
