@@ -45,23 +45,29 @@ class FishDisplay extends React.Component {
     }));
   };
 
+  getFishAvailability = (userMonth, userTime) => {
+    const availableFish = this.state.fishes.filter((fish) => {
+      const { hemisphere, hours } = fish.availability;
+      return (
+        hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+        hours.includes(userTime)
+      );
+    });
+    return availableFish;
+  };
+
   render() {
-    const availableFish = this.state.fishes.map((fish) => {
-      if (
-        fish.availability.hemisphere[this.state.user.hemisphere].includes(
-          this.state.user.month
-        ) &&
-        fish.availability.hours.includes(this.state.user.time)
-      ) {
-        return (
-          <CritterCard
-            image={fish.image}
-            name={fish.name}
-            location={fish.location}
-            key={fish.name}
-          />
-        );
-      }
+    const { month, time } = this.state.user;
+    const allAvailableFish = this.getFishAvailability(month, time);
+    const availableFish = allAvailableFish.map((fish) => {
+      return (
+        <CritterCard
+          image={fish.image}
+          name={fish.name}
+          location={fish.location}
+          key={fish.name}
+        />
+      );
     });
 
     return (
