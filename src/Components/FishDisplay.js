@@ -35,28 +35,14 @@ class FishDisplay extends React.Component {
   }
 
   handleChange = (event) => {
-    const today = new Date();
-    const months = [
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July",
-      "August",
-      "Spetember",
-      "October",
-      "November",
-      "December",
-    ];
-    this.setState({
+    const e = event.target.value;
+
+    this.setState((prevState) => ({
       user: {
-        hemisphere: event.target.value,
-        time: today.getHours(),
-        month: months[today.getMonth()],
+        ...prevState.user,
+        hemisphere: e,
       },
-    });
+    }));
   };
 
   render() {
@@ -79,17 +65,18 @@ class FishDisplay extends React.Component {
             if (
               fish.availability.hemisphere[this.state.user.hemisphere].includes(
                 this.state.user.month
-              )
+              ) &&
+              fish.availability.hours.includes(this.state.user.time)
             ) {
-              if (fish.availability.hours.includes(this.state.user.time)) {
-                return (
-                  <CritterCard
-                    name={fish.name}
-                    location={fish.location}
-                    key={fish.name}
-                  />
-                );
-              }
+              console.log(fish.image);
+              return (
+                <CritterCard
+                  image={fish.image}
+                  name={fish.name}
+                  location={fish.location}
+                  key={fish.name}
+                />
+              );
             }
           })}
         </div>
