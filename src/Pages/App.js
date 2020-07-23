@@ -1,13 +1,13 @@
 import React from "react";
 
 import Header from "../Components/Header";
-import FishDisplay from "../Components/FishDisplay";
+import Display from "../Components/Display";
 
 function App() {
   return (
     <div>
       <Header />
-      <FishDisplay />
+      <Display />
     </div>
   );
 }
