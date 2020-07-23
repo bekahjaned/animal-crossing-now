@@ -35,31 +35,35 @@ class FishDisplay extends React.Component {
   }
 
   handleChange = (event) => {
-    const today = new Date();
-    const months = [
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July",
-      "August",
-      "Spetember",
-      "October",
-      "November",
-      "December",
-    ];
-    this.setState({
+    const e = event.target.value;
+
+    this.setState((prevState) => ({
       user: {
-        hemisphere: event.target.value,
-        time: today.getHours(),
-        month: months[today.getMonth()],
+        ...prevState.user,
+        hemisphere: e,
       },
-    });
+    }));
   };
 
   render() {
+    const availableFish = this.state.fishes.map((fish) => {
+      if (
+        fish.availability.hemisphere[this.state.user.hemisphere].includes(
+          this.state.user.month
+        ) &&
+        fish.availability.hours.includes(this.state.user.time)
+      ) {
+        return (
+          <CritterCard
+            image={fish.image}
+            name={fish.name}
+            location={fish.location}
+            key={fish.name}
+          />
+        );
+      }
+    });
+
     return (
       <div>
         <div>
@@ -74,25 +78,7 @@ class FishDisplay extends React.Component {
             </select>
           </label>
         </div>
-        <div className="critter-grid">
-          {this.state.fishes.map((fish) => {
-            if (
-              fish.availability.hemisphere[this.state.user.hemisphere].includes(
-                this.state.user.month
-              )
-            ) {
-              if (fish.availability.hours.includes(this.state.user.time)) {
-                return (
-                  <CritterCard
-                    name={fish.name}
-                    location={fish.location}
-                    key={fish.name}
-                  />
-                );
-              }
-            }
-          })}
-        </div>
+        <div className="critter-grid">{availableFish}</div>
       </div>
     );
   }

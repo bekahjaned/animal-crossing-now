@@ -2,6 +2,7 @@
   {
     "name": "Bitterling",
     "location": "River",
+    "image": "Bitterling",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "March", "November", "December"],
@@ -38,6 +39,7 @@
   {
     "name": "Pale Chub",
     "location": "River",
+    "image": "Pale Chub",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -75,6 +77,7 @@
   {
     "name": "Crucian Carp",
     "location": "River",
+    "image": "Crucian Carp",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -137,6 +140,7 @@
   {
     "name": "Dace",
     "location": "River",
+    "image": "Dace",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -174,6 +178,7 @@
   {
     "name": "Carp",
     "location": "Pond",
+    "image": "Carp",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -236,6 +241,7 @@
   {
     "name": "Koi",
     "location": "Pond",
+    "image": "Koi",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -273,6 +279,7 @@
   {
     "name": "Goldfish",
     "location": "Pond",
+    "image": "Goldfish",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -335,6 +342,7 @@
   {
     "name": "Pop-eyed Goldfish",
     "location": "Pond",
+    "image": "Pop-eyed Goldfish",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -372,6 +380,7 @@
   {
     "name": "Ranchu Goldfish",
     "location": "Pond",
+    "image": "Ranchu Goldfish",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -409,6 +418,7 @@
   {
     "name": "Killifish",
     "location": "River",
+    "image": "Killifish",
     "availability": {
       "hemisphere": {
         "northern": ["April", "May", "June", "July", "August"],
@@ -445,6 +455,7 @@
   {
     "name": "Crawfish",
     "location": "Pond",
+    "image": "Crawfish",
     "availability": {
       "hemisphere": {
         "northern": ["April", "May", "June", "July", "August", "September"],
@@ -488,6 +499,7 @@
   {
     "name": "Soft-shelled Turtle",
     "location": "River",
+    "image": "Soft-shelled Turtle",
     "availability": {
       "hemisphere": {
         "northern": ["August", "September"],
@@ -499,6 +511,7 @@
   {
     "name": "Snapping Turtle",
     "location": "River",
+    "image": "Snapping Turtle",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -526,6 +539,7 @@
   {
     "name": "Tadpole",
     "location": "Pond",
+    "image": "Tadpole",
     "availability": {
       "hemisphere": {
         "northern": ["March", "April", "May", "June", "July"],
@@ -562,6 +576,7 @@
   {
     "name": "Frog",
     "location": "Pond",
+    "image": "Frog",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August"],
@@ -598,6 +613,7 @@
   {
     "name": "Freshwater Goby",
     "location": "River",
+    "image": "Freshwater Goby",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -635,6 +651,7 @@
   {
     "name": "Loach",
     "location": "River",
+    "image": "Loach",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -672,6 +689,7 @@
   {
     "name": "Catfish",
     "location": "Pond",
+    "image": "Catfish",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -690,6 +708,7 @@
   {
     "name": "Giant Snakehead",
     "location": "Pond",
+    "image": "Giant Snakehead",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August"],
@@ -701,6 +720,7 @@
   {
     "name": "Bluegill",
     "location": "River",
+    "image": "Bluegill",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -738,6 +758,7 @@
   {
     "name": "Yellow Perch",
     "location": "River",
+    "image": "Yellow Perch",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -800,6 +821,7 @@
   {
     "name": "Black Bass",
     "location": "River",
+    "image": "Black Bass",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -862,6 +884,7 @@
   {
     "name": "Tilapia",
     "location": "River",
+    "image": "Tilapia",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September", "October"],
@@ -898,6 +921,7 @@
   {
     "name": "Pike",
     "location": "River",
+    "image": "Pike",
     "availability": {
       "hemisphere": {
         "northern": ["September", "October", "November", "December"],
@@ -934,6 +958,7 @@
   {
     "name": "Pond Smelt",
     "location": "River",
+    "image": "Pond Smelt",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "December"],
@@ -970,6 +995,7 @@
   {
     "name": "Sweetfish",
     "location": "River",
+    "image": "Sweetfish",
     "availability": {
       "hemisphere": {
         "northern": ["July", "August", "September"],
@@ -1006,6 +1032,7 @@
   {
     "name": "Cherry Salmon",
     "location": "River (Clifftop)",
+    "image": "Cherry Salmon",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1033,6 +1060,7 @@
   {
     "name": "Char",
     "location": "River (clifftop)",
+    "image": "Char",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1060,6 +1088,7 @@
   {
     "name": "Golden Trout",
     "location": "River (clifftop)",
+    "image": "Golden Trout",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1087,6 +1116,7 @@
   {
     "name": "Stringfish",
     "location": "River (clifftop)",
+    "image": "Stringfish",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "March", "December"],
@@ -1098,6 +1128,7 @@
   {
     "name": "Salmon",
     "location": "River (mouth)",
+    "image": "Salmon",
     "availability": {
       "hemisphere": {
         "northern": ["September"],
@@ -1134,6 +1165,7 @@
   {
     "name": "King Salmon",
     "location": "River (mouth)",
+    "image": "King Salmon",
     "availability": {
       "hemisphere": {
         "northern": ["September"],
@@ -1170,6 +1202,7 @@
   {
     "name": "Mitten Crab",
     "location": "River",
+    "image": "Mitten Crab",
     "availability": {
       "hemisphere": {
         "northern": ["September", "October", "November"],
@@ -1181,6 +1214,7 @@
   {
     "name": "Guppy",
     "location": "River",
+    "image": "Guppy",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1201,6 +1235,7 @@
   {
     "name": "Nibble Fish",
     "location": "River",
+    "image": "Nibble Fish",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September"],
@@ -1212,6 +1247,7 @@
   {
     "name": "Angelfish",
     "location": "River",
+    "image": "Angelfish",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -1230,6 +1266,7 @@
   {
     "name": "Betta",
     "location": "River",
+    "image": "Betta",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -1241,6 +1278,7 @@
   {
     "name": "Neon Tetra",
     "location": "River",
+    "image": "Neon Tetra",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1270,6 +1308,7 @@
   {
     "name": "Rainbowfish",
     "location": "River",
+    "image": "Rainbowfish",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -1288,6 +1327,7 @@
   {
     "name": "Piranha",
     "location": "River",
+    "image": "Piranha",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1299,6 +1339,7 @@
   {
     "name": "Arowana",
     "location": "River",
+    "image": "Arowana",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1310,6 +1351,7 @@
   {
     "name": "Dorado",
     "location": "River",
+    "image": "Dorado",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1340,6 +1382,7 @@
   {
     "name": "Gar",
     "location": "Pond",
+    "image": "Gar",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1351,6 +1394,7 @@
   {
     "name": "Arapaima",
     "location": "River",
+    "image": "Arapaima",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1362,6 +1406,7 @@
   {
     "name": "Saddled Bichir",
     "location": "River",
+    "image": "Saddled Bichir",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -1373,6 +1418,7 @@
   {
     "name": "Sturgeon",
     "location": "River (mouth)",
+    "image": "Sturgeon",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1424,6 +1470,7 @@
   {
     "name": "Sea Butterfly",
     "location": "Sea",
+    "image": "Sea Butterfly",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "March", "December"],
@@ -1457,8 +1504,9 @@
     }
   },
   {
-    "name": "Seahorse",
+    "name": "Sea Horse",
     "location": "Sea",
+    "image": "Sea Horse",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1509,8 +1557,9 @@
     }
   },
   {
-    "name": "Clownfish",
+    "name": "Clown Fish",
     "location": "Sea",
+    "image": "Clown Fish",
     "availability": {
       "hemisphere": {
         "northern": ["April", "May", "June", "July", "August", "September"],
@@ -1553,6 +1602,7 @@
   {
     "name": "Surgeonfish",
     "location": "Sea",
+    "image": "Surgeonfish",
     "availability": {
       "hemisphere": {
         "northern": ["April", "May", "June", "July", "August", "September"],
@@ -1595,6 +1645,7 @@
   {
     "name": "Butterfly Fish",
     "location": "Sea",
+    "image": "Butterfly Fish",
     "availability": {
       "hemisphere": {
         "northern": ["April", "May", "June", "July", "August", "September"],
@@ -1637,6 +1688,7 @@
   {
     "name": "Napoleonfish",
     "location": "Sea",
+    "image": "Napoleon Fish",
     "availability": {
       "hemisphere": {
         "northern": ["July", "August"],
@@ -1667,6 +1719,7 @@
   {
     "name": "Zebra Turkeyfish",
     "location": "Sea",
+    "image": "Zebra Turkeyfish",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1720,6 +1773,7 @@
   {
     "name": "Blowfish",
     "location": "Sea",
+    "image": "Blowfish",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "November", "December"],
@@ -1731,6 +1785,7 @@
   {
     "name": "Puffer Fish",
     "location": "Sea",
+    "image": "Puffer Fish",
     "availability": {
       "hemisphere": {
         "northern": ["July", "August", "Septembe"],
@@ -1766,6 +1821,7 @@
   {
     "name": "Anchovy",
     "location": "Sea",
+    "image": "Anchovy",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1822,6 +1878,7 @@
   {
     "name": "Horse Mackerel",
     "location": "Sea",
+    "image": "Horse Mackerel",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1883,6 +1940,7 @@
   {
     "name": "Barred Knifejaw",
     "location": "Sea",
+    "image": "Barred Knifejaw",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1938,6 +1996,7 @@
   {
     "name": "Sea Bass",
     "location": "Sea",
+    "image": "Sea Bass",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -1999,6 +2058,7 @@
   {
     "name": "Red Snapper",
     "location": "Sea",
+    "image": "Red Snapper",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2060,6 +2120,7 @@
   {
     "name": "Dab",
     "location": "Sea",
+    "image": "Dab",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2103,6 +2164,7 @@
   {
     "name": "Olive Flounder",
     "location": "Sea",
+    "image": "Olive Flounder",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2164,6 +2226,7 @@
   {
     "name": "Squid",
     "location": "Sea",
+    "image": "Squid",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2219,6 +2282,7 @@
   {
     "name": "Moray Eel",
     "location": "Sea",
+    "image": "Moray Eel",
     "availability": {
       "hemisphere": {
         "northern": ["August", "September", "October"],
@@ -2254,6 +2318,7 @@
   {
     "name": "Ribbon Eel",
     "location": "Sea",
+    "image": "Ribbon Eel",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September", "October"],
@@ -2289,6 +2354,7 @@
   {
     "name": "Tuna",
     "location": "Pier",
+    "image": "Tuna",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2331,6 +2397,7 @@
   {
     "name": "Blue Marlin",
     "location": "Pier",
+    "image": "Blue Marlin",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2386,6 +2453,7 @@
   {
     "name": "Giant Trevally",
     "location": "Pier",
+    "image": "Giant Trevally",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -2421,6 +2489,7 @@
   {
     "name": "Mahi-mahi",
     "location": "Pier",
+    "image": "Mahi-mahi",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September", "October"],
@@ -2463,6 +2532,7 @@
   {
     "name": "Ocean Sunfish",
     "location": "Sea",
+    "image": "Ocean Sunfish",
     "availability": {
       "hemisphere": {
         "northern": ["July", "August", "September"],
@@ -2493,6 +2563,7 @@
   {
     "name": "Ray",
     "location": "Sea",
+    "image": "Ray",
     "availability": {
       "hemisphere": {
         "northern": ["August", "September", "October", "November"],
@@ -2523,6 +2594,7 @@
   {
     "name": "Saw Shark",
     "location": "Sea",
+    "image": "Saw Shark",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -2534,6 +2606,7 @@
   {
     "name": "Hammerhead Shark",
     "location": "Sea",
+    "image": "Hammerhead Shark",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -2545,6 +2618,7 @@
   {
     "name": "Great White Shark",
     "location": "Sea",
+    "image": "Great White Shark",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -2556,6 +2630,7 @@
   {
     "name": "Whale Shark",
     "location": "Sea",
+    "image": "Whale Shark",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -2591,6 +2666,7 @@
   {
     "name": "Suckerfish",
     "location": "Sea",
+    "image": "Suckerfish",
     "availability": {
       "hemisphere": {
         "northern": ["June", "July", "August", "September"],
@@ -2626,6 +2702,7 @@
   {
     "name": "Football Fish",
     "location": "Sea",
+    "image": "Football Fish",
     "availability": {
       "hemisphere": {
         "northern": ["January", "February", "March", "November", "December"],
@@ -2637,6 +2714,7 @@
   {
     "name": "Oarfish",
     "location": "Sea",
+    "image": "Oarfish",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2686,6 +2764,7 @@
   {
     "name": "Barreleye",
     "location": "Sea",
+    "image": "Barreleye",
     "availability": {
       "hemisphere": {
         "northern": [
@@ -2723,6 +2802,7 @@
   {
     "name": "Coelacanth",
     "location": "Sea (Rainy days)",
+    "image": "Coelacanth",
     "availability": {
       "hemisphere": {
         "northern": [
