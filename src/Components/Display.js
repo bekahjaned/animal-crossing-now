@@ -1,6 +1,7 @@
 import React from "react";
 
-import CritterCard from "./CritterCard";
+import FishCard from "./FishCard";
+import BugCard from "./BugCard";
 
 import fishes from "../data/fishes.json";
 import bugs from "../data/bugs.json";
@@ -74,7 +75,7 @@ class Display extends React.Component {
     const allAvailableFish = this.getFishAvailability(month, time);
     const availableFish = allAvailableFish.map((fish) => {
       return (
-        <CritterCard
+        <FishCard
           image={fish.image}
           name={fish.name}
           location={fish.location}
@@ -86,7 +87,7 @@ class Display extends React.Component {
     const allAvailableBugs = this.getBugAvailability(month, time);
     const availableBugs = allAvailableBugs.map((bug) => {
       return (
-        <CritterCard
+        <BugCard
           image={bug.image}
           name={bug.name}
           location={bug.location}

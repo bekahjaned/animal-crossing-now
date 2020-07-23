@@ -248,9 +248,9 @@
     }
   },
   {
-    "name": "Queen Alexandra's Birwing",
+    "name": "Queen Alexandra's Birdwing",
     "location": "Flying",
-    "image": "Queen Alexandra's Birwing",
+    "image": "Queen Alexandra's Birdwing",
     "availability": {
       "hemisphere": {
         "northern": ["May", "June", "July", "August", "September"],
