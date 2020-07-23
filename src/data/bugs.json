@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Common Butterfly",
+    "location": "Flying",
+    "image": "Common Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Yellow Butterfly",
+    "location": "Flying",
+    "image": "Yellow Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June", "September", "October"],
+        "southern": [
+          "March",
+          "April",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Tiger Butterfly",
+    "location": "Flying",
+    "image": "Tiger Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September"
+        ],
+        "southern": [
+          "September",
+          "October",
+          "November",
+          "December",
+          "January",
+          "February",
+          "March"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Peacock Butterfly",
+    "location": "Flying (hybrid flowers",
+    "image": "Peacock Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June"],
+        "southern": ["September", "October", "November", "December"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Common Bluebottle",
+    "location": "Flying",
+    "image": "Common Bluebottle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August"],
+        "southern": ["October", "November", "December", "January", "February"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Paper Kite Butterfly",
+    "location": "Flying",
+    "image": "Paper Kite Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Great Purple Emperor",
+    "location": "Flying",
+    "image": "Great Purple Emperor",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August"],
+        "southern": ["November", "December", "January", "February"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Monarch Butterfly",
+    "location": "Flying",
+    "image": "Monarch Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November"],
+        "southern": ["March", "April", "May"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Emperor Butterfly",
+    "location": "Flying",
+    "image": "Emperor Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Agrias Butterfly",
+    "location": "Flying",
+    "image": "Agrias Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Rajah Brooke's Birdwing",
+    "location": "Flying",
+    "image": "Rajah Brooke's Birdwing",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Queen Alexandra's Birwing",
+    "location": "Flying",
+    "image": "Queen Alexandra's Birwing",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Moth",
+    "location": "Flying around light",
+    "image": "Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Atlas Moth",
+    "location": "On trees",
+    "image": "Atlas Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Madagascan Sunset Moth",
+    "location": "Flying",
+    "image": "Madagascan Sunset Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Long Locust",
+    "location": "On ground",
+    "image": "Long Locust",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Migratory Locust",
+    "location": "On ground",
+    "image": "Migratory Locust",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October", "November"],
+        "southern": ["February", "March", "April", "May"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Rice Grasshopper",
+    "location": "On ground",
+    "image": "Rice Grasshopper",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October", "November"],
+        "southern": ["February", "March", "April", "May"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Grasshopper",
+    "location": "On ground",
+    "image": "Grasshopper",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Cricket",
+    "location": "On ground",
+    "image": "Cricket",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November"],
+        "southern": ["March", "April", "May"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "",
+    "location": "",
+    "image": "",
+    "availability": {
+      "hemisphere": {
+        "northern": [],
+        "southern": []
+      },
+      "hours": []
+    }
+  }
+]
