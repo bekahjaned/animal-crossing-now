@@ -1,10 +1,12 @@
 import React from "react";
 
-import CritterCard from "./CritterCard";
+import FishCard from "./FishCard";
+import BugCard from "./BugCard";
 
 import fishes from "../data/fishes.json";
+import bugs from "../data/bugs.json";
 
-class FishDisplay extends React.Component {
+class Display extends React.Component {
   constructor(props) {
     super(props);
 
@@ -31,6 +33,7 @@ class FishDisplay extends React.Component {
         month: months[today.getMonth()],
       },
       fishes: fishes,
+      bugs: bugs,
     };
   }
 
@@ -56,16 +59,39 @@ class FishDisplay extends React.Component {
     return availableFish;
   };
 
+  getBugAvailability = (userMonth, userTime) => {
+    const availableBugs = this.state.bugs.filter((bug) => {
+      const { hemisphere, hours } = bug.availability;
+      return (
+        hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+        hours.includes(userTime)
+      );
+    });
+    return availableBugs;
+  };
+
   render() {
     const { month, time } = this.state.user;
     const allAvailableFish = this.getFishAvailability(month, time);
     const availableFish = allAvailableFish.map((fish) => {
       return (
-        <CritterCard
+        <FishCard
           image={fish.image}
           name={fish.name}
           location={fish.location}
           key={fish.name}
+        />
+      );
+    });
+
+    const allAvailableBugs = this.getBugAvailability(month, time);
+    const availableBugs = allAvailableBugs.map((bug) => {
+      return (
+        <BugCard
+          image={bug.image}
+          name={bug.name}
+          location={bug.location}
+          key={bug.name}
         />
       );
     });
@@ -85,9 +111,10 @@ class FishDisplay extends React.Component {
           </label>
         </div>
         <div className="critter-grid">{availableFish}</div>
+        <div className="critter-grid">{availableBugs}</div>
       </div>
     );
   }
 }
 
-export default FishDisplay;
+export default Display;

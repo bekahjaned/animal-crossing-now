@@ -1,0 +1,2191 @@
+[
+  {
+    "name": "Common Butterfly",
+    "location": "Flying",
+    "image": "Common Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Yellow Butterfly",
+    "location": "Flying",
+    "image": "Yellow Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June", "September", "October"],
+        "southern": [
+          "March",
+          "April",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Tiger Butterfly",
+    "location": "Flying",
+    "image": "Tiger Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September"
+        ],
+        "southern": [
+          "September",
+          "October",
+          "November",
+          "December",
+          "January",
+          "February",
+          "March"
+        ]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Peacock Butterfly",
+    "location": "Flying (hybrid flowers",
+    "image": "Peacock Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June"],
+        "southern": ["September", "October", "November", "December"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Common Bluebottle",
+    "location": "Flying",
+    "image": "Common Bluebottle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August"],
+        "southern": ["October", "November", "December", "January", "February"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Paper Kite Butterfly",
+    "location": "Flying",
+    "image": "Paper Kite Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Great Purple Emperor",
+    "location": "Flying",
+    "image": "Great Purple Emperor",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August"],
+        "southern": ["November", "December", "January", "February"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Monarch Butterfly",
+    "location": "Flying",
+    "image": "Monarch Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November"],
+        "southern": ["March", "April", "May"]
+      },
+      "hours": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Emperor Butterfly",
+    "location": "Flying",
+    "image": "Emperor Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Agrias Butterfly",
+    "location": "Flying",
+    "image": "Agrias Butterfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Rajah Brooke's Birdwing",
+    "location": "Flying",
+    "image": "Rajah Brooke's Birdwing",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "June",
+          "July",
+          "August",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Queen Alexandra's Birdwing",
+    "location": "Flying",
+    "image": "Queen Alexandra's Birdwing",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Moth",
+    "location": "Flying around light",
+    "image": "Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Atlas Moth",
+    "location": "On trees",
+    "image": "Atlas Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Madagascan Sunset Moth",
+    "location": "Flying",
+    "image": "Madagascan Sunset Moth",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Long Locust",
+    "location": "On ground",
+    "image": "Long Locust",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Migratory Locust",
+    "location": "On ground",
+    "image": "Migratory Locust",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October", "November"],
+        "southern": ["February", "March", "April", "May"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Rice Grasshopper",
+    "location": "On ground",
+    "image": "Rice Grasshopper",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September", "October", "November"],
+        "southern": ["February", "March", "April", "May"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Grasshopper",
+    "location": "On ground",
+    "image": "Grasshopper",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Cricket",
+    "location": "On ground",
+    "image": "Cricket",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October", "November"],
+        "southern": ["March", "April", "May"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Bell Cricket",
+    "location": "On ground",
+    "image": "Bell Cricket",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October"],
+        "southern": ["March", "April"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Mantis",
+    "location": "On flowers",
+    "image": "Mantis",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "March",
+          "April",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Orchid Mantis",
+    "location": "On white flowers",
+    "image": "Orchid Mantis",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Honeybee",
+    "location": "Above flowers",
+    "image": "Honeybee",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June", "July"],
+        "southern": ["January", "September", "October", "November", "December"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Wasp",
+    "location": "Shaking trees",
+    "image": "Wasp",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Brown Cicada",
+    "location": "On trees",
+    "image": "Brown Cicada",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Robust Cicada",
+    "location": "On trees",
+    "image": "Robust Cicada",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Giant Cicada",
+    "location": "On trees",
+    "image": "Giant Cicada",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Walker Cicada",
+    "location": "On trees",
+    "image": "Walker Cicada",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September"],
+        "southern": ["February", "March"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Evening Cicada",
+    "location": "On trees",
+    "image": "Evening Cicada",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [8, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Cicada Shell",
+    "location": "On trees",
+    "image": "Cicada Shell",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Red Dragonfly",
+    "location": "Flying",
+    "image": "Red Dragonfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["September", "October"],
+        "southern": ["March", "April"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Darner Dragonfly",
+    "location": "Flying",
+    "image": "Darner Dragonfly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Banded Dragonfly",
+    "location": "Flying",
+    "image": "Banded Dragonfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Damselfly",
+    "location": "Flying",
+    "image": "Damselfly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["November", "December", "January", "February"],
+        "southern": ["May", "June", "July", "August"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Firefly",
+    "location": "Flying",
+    "image": "Firefly",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June"],
+        "southern": ["December"]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Mole Cricket",
+    "location": "Underground",
+    "image": "Mole Cricket",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "November",
+          "December",
+          "January",
+          "February",
+          "March",
+          "April",
+          "May"
+        ],
+        "southern": [
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pondskater",
+    "location": "On ponds and rivers",
+    "image": "Pondskater",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "November", "December"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Diving Beetle",
+    "location": "On ponds and rivers",
+    "image": "Diving Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "November", "December"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Giant Water Bug",
+    "location": "On ponds and rivers",
+    "image": "Giant Water Bug",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August", "September"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Stinkbug",
+    "location": "On flowers",
+    "image": "Stinkbug",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Man-faced Stinkbug",
+    "location": "On flowers",
+    "image": "Man-faced Stink Bug",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Ladybug",
+    "location": "On flowers",
+    "image": "Ladybug",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June", "October"],
+        "southern": ["April", "September", "October", "November", "December"]
+      },
+      "hours": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  },
+  {
+    "name": "Tiger Beetle",
+    "location": "On ground",
+    "image": "Tiger Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "southern": [
+          "September",
+          "October",
+          "November",
+          "December",
+          "January",
+          "February",
+          "March"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Jewel Beetle",
+    "location": "On tree stumps",
+    "image": "Jewel Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Citrus Long-horned Beetle",
+    "location": "On tree stumps",
+    "image": "Citrus Long-horned Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Rosalia Batesi Beetle",
+    "location": "On tree stumps",
+    "image": "Rosalia Batesi Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["November", "December", "January", "February", "March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Blue Weevil Beetle",
+    "location": "On trees",
+    "image": "Blue Weevil Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Violin Beetle",
+    "location": "On tree stumps",
+    "image": "Violin Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "September", "October", "November"],
+        "southern": ["March", "April", "May", "November", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Dung Beetle",
+    "location": "Rolling snowballs",
+    "image": "Dung Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["January", "February", "December"],
+        "southern": ["June", "July", "August"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Earth-boring Dung Beetle",
+    "location": "On ground",
+    "image": "Earth-boring Dung Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Scarab Beetle",
+    "location": "On trees",
+    "image": "Scarab Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Drone Beetle",
+    "location": "On ground",
+    "image": "Drone Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August"],
+        "southern": ["January", "February", "December"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Goliath Beetle",
+    "location": "On coconut trees",
+    "image": "Goliath Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Saw Stag",
+    "location": "On trees",
+    "image": "Saw Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Miyama Stag",
+    "location": "On trees",
+    "image": "Miyama Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Giant Stag",
+    "location": "On trees",
+    "image": "Giant Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Rainbow Stag",
+    "location": "On trees",
+    "image": "Rainbow Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Cyclommatus Stag",
+    "location": "On trees",
+    "image": "Cyclommatus Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Golden Stag",
+    "location": "On trees",
+    "image": "Golden Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Giraffe Stag",
+    "location": "On trees",
+    "image": "Giraffe Stag",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Horned Dynastid",
+    "location": "On trees",
+    "image": "Horned Dynastid",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Horned Atlas",
+    "location": "On trees",
+    "image": "Horned Atlas",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Horned Elephant",
+    "location": "On trees",
+    "image": "Horned Elephant",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Horned Hercules",
+    "location": "On trees",
+    "image": "Horned Hercules",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August"],
+        "southern": ["January", "February"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Walking Stick",
+    "location": "On trees",
+    "image": "Walking Stick",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September", "October", "November"],
+        "southern": ["January", "February", "March", "April", "May"]
+      },
+      "hours": [4, 5, 6, 7, 8, 17, 18, 19]
+    }
+  },
+  {
+    "name": "Walking Leaf",
+    "location": "On ground, under trees",
+    "image": "Walking Leaf",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Bagworm",
+    "location": "Shaking trees",
+    "image": "Bagworm",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Ant",
+    "location": "On rotten food",
+    "image": "Ant",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Hermit Crab",
+    "location": "On beach (shell)",
+    "image": "Hermit Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 18, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Wharf Roach",
+    "location": "On beach rocks",
+    "image": "Wharf Roach",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Fly",
+    "location": "On rotten food or garbage",
+    "image": "Fly",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Mosquito",
+    "location": "Flying",
+    "image": "Mosquito",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["January", "February", "March", "December"]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Flea",
+    "location": "On villagers",
+    "image": "Flea",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Snail",
+    "location": "On rocks or shrubs (rain)",
+    "image": "Snail",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "name": "Pill Bug",
+    "location": "Hitting rocks",
+    "image": "Pill Bug",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }
+  },
+  {
+    "name": "Centipede",
+    "location": "Hitting rocks",
+    "image": "Centipede",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [17, 18, 19, 20, 21, 22, 23]
+    }
+  },
+  {
+    "name": "Spider",
+    "location": "Shaking trees",
+    "image": "Spider",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  {
+    "name": "Tarantula",
+    "location": "On ground",
+    "image": "Tarantula",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ],
+        "southern": ["May", "June", "July", "August", "September", "October"]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  },
+  {
+    "name": "Scorpion",
+    "location": "On ground",
+    "image": "Scorpion",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
+    }
+  }
+]

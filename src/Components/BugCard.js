@@ -1,6 +1,6 @@
 import React from "react";
 
-class CritterCard extends React.Component {
+class BugCard extends React.Component {
   constructor(props) {
     super(props);
   }
@@ -9,8 +9,8 @@ class CritterCard extends React.Component {
     return (
       <div className="critter">
         <img
-          src={require(`../data/images/Fish/${this.props.image}.png`)}
-          alt="fish"
+          src={require(`../data/images/Bugs/${this.props.image}.png`)}
+          alt="bug"
         ></img>
         <h3>{this.props.name}</h3>
         <p>Location: {this.props.location}</p>
@@ -19,4 +19,4 @@ class CritterCard extends React.Component {
   }
 }
 
-export default CritterCard;
+export default BugCard;
