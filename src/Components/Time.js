@@ -45,9 +45,7 @@ class Time extends React.Component {
   render() {
     return (
       <div>
-        <h2>Time: {this.state.time}</h2>
-        <p>Please make sure to refresh page if the hour changes :)</p>
-        <h2>Date: {this.state.date}</h2>
+        Your local time is {this.state.time} on {this.state.date}
       </div>
     );
   }
