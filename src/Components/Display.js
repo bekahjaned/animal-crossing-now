@@ -100,7 +100,7 @@ class Display extends React.Component {
 
     return (
       <div className="main">
-        <div>
+        <div className="user-info">
           <Time />
           <select
             value={this.state.user.hemisphere}

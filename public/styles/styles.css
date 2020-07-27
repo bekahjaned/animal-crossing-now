@@ -25,6 +25,7 @@ p {
   grid-column: 1 / 13;
   text-align: center;
   font-size: 18px;
+  margin-bottom: 40px;
 }
 
 h1 {
@@ -38,6 +39,18 @@ h2 {
   margin-bottom: 40px;
 }
 
+.time-date {
+  padding-right: 10px;
+}
+
+.user-info {
+  font-size: 20px;
+  margin-bottom: 40px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
 .main {
   -ms-grid-column: 1;
   -ms-grid-column-span: 12;
@@ -45,6 +58,7 @@ h2 {
 }
 
 select {
+  font-size: 20px;
   background-color: #616161;
   color: #f6f6f6;
 }
@@ -54,6 +68,7 @@ img {
 }
 
 .critter-display {
+  margin: 0;
   font-size: 20px;
   font-weight: 700;
 }
