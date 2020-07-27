@@ -4,8 +4,7 @@ class Footer extends React.Component {
   render() {
     return (
       <div>
-        If you find this helpful and want to support us, send us a coffee here
-        (insert link)
+        If you find this site helpful, you can buy us a coffee at (link).
       </div>
     );
   }
