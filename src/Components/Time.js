@@ -36,9 +36,9 @@ class Time extends React.Component {
       time: hour + ":" + min,
       date:
         months[today.getMonth()] +
-        " / " +
+        " " +
         today.getDate() +
-        " / " +
+        ", " +
         today.getFullYear(),
     };
   }
