@@ -19,6 +19,7 @@ body {
   -ms-grid-column: 1;
   -ms-grid-column-span: 12;
   grid-column: 1 / 13;
+  text-align: center;
 }
 
 .main {
@@ -30,6 +31,16 @@ body {
 select {
   background-color: #616161;
   color: #f6f6f6;
+}
+
+img {
+  width: 60px;
+}
+
+.critter-display {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .critter {
