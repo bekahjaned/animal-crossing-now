@@ -45,7 +45,8 @@ class Time extends React.Component {
   render() {
     return (
       <div className="time-date">
-        Your local time is {this.state.time} on {this.state.date}
+        Your local time is <strong>{this.state.time}</strong> on{" "}
+        <strong>{this.state.date}</strong>
       </div>
     );
   }
