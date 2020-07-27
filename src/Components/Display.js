@@ -110,9 +110,9 @@ class Display extends React.Component {
             <option value="southern">Southern Hemisphere</option>
           </select>
         </div>
-        <h3>Fish available now</h3>
+        <h3 className="critter-display">Fish available now</h3>
         <div className="critter-grid">{availableFish}</div>
-        <h3>Bugs available now</h3>
+        <h3 className="critter-display">Bugs available now</h3>
         <div className="critter-grid">{availableBugs}</div>
         <Footer />
       </div>
