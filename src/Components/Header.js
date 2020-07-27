@@ -1,7 +1,5 @@
 import React from "react";
 
-import Time from "./Time";
-
 class Header extends React.Component {
   render() {
     return (
@@ -11,7 +9,6 @@ class Header extends React.Component {
           List of fish and bugs available right now for Animal Crossing: New
           Horizons
         </p>
-        <Time />
       </div>
     );
   }
