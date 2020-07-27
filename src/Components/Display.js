@@ -2,6 +2,7 @@ import React from "react";
 
 import FishCard from "./FishCard";
 import BugCard from "./BugCard";
+import Footer from "./Footer";
 
 import fishes from "../data/fishes.json";
 import bugs from "../data/bugs.json";
@@ -114,6 +115,7 @@ class Display extends React.Component {
         <div className="critter-grid">{availableFish}</div>
         <h3>Bugs available now:</h3>
         <div className="critter-grid">{availableBugs}</div>
+        <Footer />
       </div>
     );
   }
