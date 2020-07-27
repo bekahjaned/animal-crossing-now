@@ -92,7 +92,8 @@ img {
   display: grid;
   -ms-grid-columns: (1fr)[6];
       grid-template-columns: repeat(6, 1fr);
-  grid-gap: 30px;
+  grid-column-gap: 30px;
+  grid-row-gap: 24px;
   justify-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
