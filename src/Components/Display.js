@@ -106,8 +106,8 @@ class Display extends React.Component {
             value={this.state.user.hemisphere}
             onChange={this.handleChange}
           >
-            <option value="northern">Northern</option>
-            <option value="southern">Southern</option>
+            <option value="northern">Northern Hemisphere</option>
+            <option value="southern">Southern Hemisphere</option>
           </select>
         </div>
         <h3>Fish available now:</h3>
