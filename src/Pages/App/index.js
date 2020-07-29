@@ -1,7 +1,7 @@
 import React from "react";
 
-import Header from "../Components/Header";
-import Display from "../Components/Display/index";
+import Header from "../../Components/Header";
+import Display from "../../Components/Display";
 
 function App() {
   return (

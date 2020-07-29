@@ -1,9 +1,9 @@
 import React from "react";
 
-import Time from "../Time";
-import FishCard from "../FishCard";
-import BugCard from "../BugCard";
-import Footer from "../Footer";
+import Time from "../Time/";
+import FishCard from "../FishCard/";
+import BugCard from "../BugCard/";
+import Footer from "../Footer/";
 
 import fishes from "../../data/fishes.json";
 import bugs from "../../data/bugs.json";
