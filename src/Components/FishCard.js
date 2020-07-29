@@ -12,7 +12,7 @@ class FishCard extends React.Component {
           src={require(`../data/images/Fish/${this.props.image}.png`)}
           alt="fish"
         ></img>
-        <p>{this.props.name}</p>
+        <p className="critter-name">{this.props.name}</p>
         <p>{this.props.location}</p>
       </div>
     );

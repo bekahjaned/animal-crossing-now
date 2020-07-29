@@ -5,7 +5,7 @@ import Display from "../Components/Display";
 
 function App() {
   return (
-    <div>
+    <div className="content">
       <Header />
       <Display />
     </div>

@@ -12,7 +12,7 @@ class BugCard extends React.Component {
           src={require(`../data/images/Bugs/${this.props.image}.png`)}
           alt="bug"
         ></img>
-        <p>{this.props.name}</p>
+        <p className="critter-name">{this.props.name}</p>
         <p>{this.props.location}</p>
       </div>
     );
