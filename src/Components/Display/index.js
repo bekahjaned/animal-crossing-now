@@ -2,8 +2,8 @@ import React from "react";
 import "../Display/index.css";
 
 import Time from "../Time/";
-import FishCard from "../FishCard/";
-import BugCard from "../BugCard/";
+import FishCard from "../Cards/FishCard/";
+import BugCard from "../Cards/BugCard/";
 
 import fishes from "../../data/fishes.json";
 import bugs from "../../data/bugs.json";

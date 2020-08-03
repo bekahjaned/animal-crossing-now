@@ -1,15 +1,12 @@
 import React from "react";
+import "../index.css";
 
 class BugCard extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <div className="critter">
         <img
-          src={require(`../../data/images/Bugs/${this.props.image}.png`)}
+          src={require(`../../../data/images/Bugs/${this.props.image}.png`)}
           alt="bug"
         ></img>
         <p className="critter-name">{this.props.name}</p>
