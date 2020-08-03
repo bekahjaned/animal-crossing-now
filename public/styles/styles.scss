@@ -1,20 +1,5 @@
-body {
-  font-family: "Nunito", sans-serif;
-  background-color: #282828;
-  color: #f7f7f7;
-}
-
 p {
   margin: 0;
-}
-
-.content {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-auto-rows: minmax(100px, auto);
-  grid-gap: 30px;
-  max-width: 1302px;
-  margin: 0 auto;
 }
 
 .header {
