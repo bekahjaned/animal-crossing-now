@@ -1,36 +1,9 @@
-h2 {
-  font-size: 20px;
-  margin-bottom: 40px;
-}
-
 .time-date {
   padding-right: 36px;
 }
 
-.user-info {
-  font-size: 20px;
-  margin-bottom: 40px;
-  display: inline-flex;
-}
-
-.main {
-  grid-column: 1 / 13;
-}
-
-select {
-  font-size: 20px;
-  background-color: #616161;
-  color: #f6f6f6;
-}
-
 img {
   width: 60px;
-}
-
-.critter-display {
-  margin: 0;
-  font-size: 20px;
-  font-weight: 700;
 }
 
 .critter-name {
@@ -45,15 +18,4 @@ img {
   width: 100%;
   height: 100%;
   margin: 0 4px 8px 4px;
-}
-
-.critter-grid {
-  margin: 40px 0px 60px 0px;
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-column-gap: 30px;
-  grid-row-gap: 24px;
-  justify-items: center;
-  justify-content: center;
-  grid-auto-flow: row;
 }
