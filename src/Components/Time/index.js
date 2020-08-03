@@ -1,4 +1,5 @@
 import React from "react";
+import "../Time/index.css";
 
 class Time extends React.Component {
   constructor(props) {
