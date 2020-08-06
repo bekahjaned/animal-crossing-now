@@ -1,16 +1,13 @@
 import React from "react";
+import "../index.css";
 
-class FishCard extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
+class BugCard extends React.Component {
   render() {
     return (
       <div className="critter">
         <img
-          src={require(`../data/images/Fish/${this.props.image}.png`)}
-          alt="fish"
+          src={require(`../../../data/images/Bugs/${this.props.image}.png`)}
+          alt="bug"
         ></img>
         <p className="critter-name">{this.props.name}</p>
         <p>{this.props.location}</p>
@@ -19,4 +16,4 @@ class FishCard extends React.Component {
   }
 }
 
-export default FishCard;
+export default BugCard;
