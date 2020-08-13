@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a FishCard 1`] = `
+<div
+  className="critter"
+>
+  <img
+    alt="fish"
+    src="Squid.png"
+  />
+  <p
+    className="critter-name"
+  >
+    Squid
+  </p>
+  <p>
+    Sea
+  </p>
+</div>
+`;
