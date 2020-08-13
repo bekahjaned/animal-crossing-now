@@ -1,15 +1,12 @@
 import React from "react";
 
-// import Components
 import Time from "../Time/";
 import Critters from "../Critters/";
 
-// import Elements
 import { DisplayWrap } from "../../Elements/DisplayWrap/";
 import { UserInfo } from "../../Elements/UserInfo/";
 import { Select } from "../../Elements/Select/";
 
-// import data
 import fishes from "../../data/fishes.json";
 import bugs from "../../data/bugs.json";
 
