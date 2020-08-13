@@ -1,5 +1,5 @@
 import React from "react";
-import "../Time/index.css";
+import styled from "styled-components";
 
 class Time extends React.Component {
   constructor(props) {
@@ -44,11 +44,15 @@ class Time extends React.Component {
     };
   }
   render() {
+    const TimeDateWrap = styled.div`
+      padding-right: 36px;
+    `;
+
     return (
-      <div className="time-date">
+      <TimeDateWrap>
         Your local time is <strong>{this.state.time}</strong> on{" "}
         <strong>{this.state.date}</strong>
-      </div>
+      </TimeDateWrap>
     );
   }
 }
