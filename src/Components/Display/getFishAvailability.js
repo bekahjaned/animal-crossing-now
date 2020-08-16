@@ -8,7 +8,9 @@ const fishes = [
         northern: ["July", "August"],
         southern: ["January", "February"],
       },
-      hours: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+      hours: [
+        [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+      ],
     },
   },
   {
@@ -28,29 +30,31 @@ const fishes = [
         ],
       },
       hours: [
-        0,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
+        [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+        ],
       ],
     },
   },
@@ -80,29 +84,31 @@ const fishes = [
         ],
       },
       hours: [
-        0,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
+        [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+        ],
       ],
     },
   },
@@ -113,11 +119,19 @@ const userHemisphere = "southern";
 const getFishAvailability = (userMonth, userTime) => {
   const availableFish = fishes.filter((fish) => {
     const { hemisphere, hours } = fish.availability;
-    return (
-      hemisphere[userHemisphere].includes(userMonth) && hours.includes(userTime)
-    );
+    if (hours.length === 2) {
+      return (
+        (hemisphere[userHemisphere].includes(userMonth) &&
+          hours[0].includes(userTime)) ||
+        hours[1].includes(userTime)
+      );
+    } else {
+      return (
+        hemisphere[userHemisphere].includes(userMonth) &&
+        hours[0].includes(userTime)
+      );
+    }
   });
   return availableFish;
 };
-
 module.exports = getFishAvailability;

@@ -55,10 +55,18 @@ class Display extends React.Component {
   getFishAvailability = (userMonth, userTime) => {
     const availableFish = this.state.fishes.filter((fish) => {
       const { hemisphere, hours } = fish.availability;
-      return (
-        hemisphere[this.state.user.hemisphere].includes(userMonth) &&
-        hours.includes(userTime)
-      );
+      if (hours.length === 2) {
+        return (
+          (hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+            hours[0].includes(userTime)) ||
+          hours[1].includes(userTime)
+        );
+      } else {
+        return (
+          hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+          hours[0].includes(userTime)
+        );
+      }
     });
     return availableFish;
   };
@@ -66,10 +74,19 @@ class Display extends React.Component {
   getBugAvailability = (userMonth, userTime) => {
     const availableBugs = this.state.bugs.filter((bug) => {
       const { hemisphere, hours } = bug.availability;
-      return (
-        hemisphere[this.state.user.hemisphere].includes(userMonth) &&
-        hours.includes(userTime)
-      );
+
+      if (hours.length === 2) {
+        return (
+          (hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+            hours[0].includes(userTime)) ||
+          hours[1].includes(userTime)
+        );
+      } else {
+        return (
+          hemisphere[this.state.user.hemisphere].includes(userMonth) &&
+          hours[0].includes(userTime)
+        );
+      }
     });
     return availableBugs;
   };

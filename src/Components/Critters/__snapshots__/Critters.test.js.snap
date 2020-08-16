@@ -25,6 +25,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         Sea
       </p>
+      <p>
+        Available: 
+        0 - 23
+      </p>
     </div>
     <div
       className="critter"
@@ -40,6 +44,30 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       </p>
       <p>
         Pier
+      </p>
+      <p>
+        Available: 
+        0 - 23
+      </p>
+    </div>
+    <div
+      className="critter"
+    >
+      <img
+        alt="fish"
+        src="Piranha.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Piranha
+      </p>
+      <p>
+        River
+      </p>
+      <p>
+        Available: 
+        9 - 16, 21 - 4
       </p>
     </div>
   </div>
@@ -66,6 +94,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         On rotten food
       </p>
+      <p>
+        Available: 
+        0 - 23
+      </p>
     </div>
     <div
       className="critter"
@@ -81,6 +113,30 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       </p>
       <p>
         On beach rocks
+      </p>
+      <p>
+        Available: 
+        0 - 23
+      </p>
+    </div>
+    <div
+      className="critter"
+    >
+      <img
+        alt="bug"
+        src="Evening Cicada.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Evening Cicada
+      </p>
+      <p>
+        On trees
+      </p>
+      <p>
+        Available: 
+        4 - 8, 16 - 19
       </p>
     </div>
   </div>
