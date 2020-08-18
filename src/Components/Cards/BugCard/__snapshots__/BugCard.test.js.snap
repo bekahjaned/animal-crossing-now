@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a BugCard 1`] = `
+<div
+  className="critter"
+>
+  <img
+    alt="bug"
+    src="Cricket.png"
+  />
+  <p
+    className="critter-name"
+  >
+    Cricket
+  </p>
+  <p>
+    On ground
+  </p>
+</div>
+`;

@@ -1,9 +1,11 @@
 import React from "react";
-import "../Display/index.css";
 
 import Time from "../Time/";
-import FishCard from "../Cards/FishCard/";
-import BugCard from "../Cards/BugCard/";
+import Critters from "../Critters/";
+
+import { DisplayWrap } from "../../Elements/DisplayWrap/";
+import { UserInfo } from "../../Elements/UserInfo/";
+import { Select } from "../../Elements/Select/";
 
 import fishes from "../../data/fishes.json";
 import bugs from "../../data/bugs.json";
@@ -75,46 +77,25 @@ class Display extends React.Component {
   render() {
     const { month, time } = this.state.user;
     const allAvailableFish = this.getFishAvailability(month, time);
-    const availableFish = allAvailableFish.map((fish) => {
-      return (
-        <FishCard
-          image={fish.image}
-          name={fish.name}
-          location={fish.location}
-          key={fish.name}
-        />
-      );
-    });
-
     const allAvailableBugs = this.getBugAvailability(month, time);
-    const availableBugs = allAvailableBugs.map((bug) => {
-      return (
-        <BugCard
-          image={bug.image}
-          name={bug.name}
-          location={bug.location}
-          key={bug.name}
-        />
-      );
-    });
 
     return (
-      <div className="main">
-        <div className="user-info">
+      <DisplayWrap>
+        <UserInfo>
           <Time />
-          <select
+          <Select
             value={this.state.user.hemisphere}
             onChange={this.handleChange}
           >
             <option value="northern">Northern Hemisphere</option>
             <option value="southern">Southern Hemisphere</option>
-          </select>
-        </div>
-        <h3 className="critter-display">Fish available now</h3>
-        <div className="critter-grid">{availableFish}</div>
-        <h3 className="critter-display">Bugs available now</h3>
-        <div className="critter-grid">{availableBugs}</div>
-      </div>
+          </Select>
+        </UserInfo>
+        <Critters
+          allAvailableFish={allAvailableFish}
+          allAvailableBugs={allAvailableBugs}
+        />
+      </DisplayWrap>
     );
   }
 }

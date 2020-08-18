@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders multiple FishCards and BugCards 1`] = `
+<div>
+  <h3
+    className="sc-AxjAm kbdyhu"
+  >
+    Fish available now
+  </h3>
+  <div
+    className="sc-AxirZ bHoUSP"
+  >
+    <div
+      className="critter"
+    >
+      <img
+        alt="fish"
+        src="Moray Eel.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Moray Eel
+      </p>
+      <p>
+        Sea
+      </p>
+    </div>
+    <div
+      className="critter"
+    >
+      <img
+        alt="fish"
+        src="Giant Trevally.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Giant Trevally
+      </p>
+      <p>
+        Pier
+      </p>
+    </div>
+  </div>
+  <h3
+    className="sc-AxjAm kbdyhu"
+  >
+    Bugs available now
+  </h3>
+  <div
+    className="sc-AxirZ bHoUSP"
+  >
+    <div
+      className="critter"
+    >
+      <img
+        alt="bug"
+        src="Ant.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Ant
+      </p>
+      <p>
+        On rotten food
+      </p>
+    </div>
+    <div
+      className="critter"
+    >
+      <img
+        alt="bug"
+        src="Wharf Roach.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Wharf Roach
+      </p>
+      <p>
+        On beach rocks
+      </p>
+    </div>
+  </div>
+</div>
+`;
