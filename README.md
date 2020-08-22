@@ -1,7 +1,24 @@
-Check out the app here: https://animal-crossing-now.herokuapp.com/
+# Animal Crossing Now!
 
+The app that Animal Crossing fans have been waiting for! This application will display all fish and bugs that can be caught now depending on the user's time, date and hemisphere. Happy catching!
+
+Discover what critters are [available now](https://animal-crossing-now.herokuapp.com/)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Coming Soon
+
+The following features will be released in the future:
+
+• Application will be mobile friendly
+
+• Each critter will include the time it's available to catch
+
+• Shadow size information will be included for fish
+
+• Sea Creature availability will be included
+
+• Clicking on names of critters will direct user to a wikipedia page about the critter
 
 ## Available Scripts
 
