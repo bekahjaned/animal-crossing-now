@@ -18,7 +18,16 @@ function App() {
       </Header>
       <Display />
       <Footer>
-        If you find this site helpful, you can buy us a coffee at (link).
+        <a
+          className="bmc-button"
+          href="https://www.buymeacoffee.com/mannyandrebekah"
+        >
+          <img
+            src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
+            alt="Buy us a coffee"
+          />
+          <span>If you found this helpful, buy us a coffee?</span>
+        </a>
       </Footer>
     </ContentWrap>
   );
