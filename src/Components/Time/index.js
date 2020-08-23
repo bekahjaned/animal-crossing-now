@@ -44,8 +44,16 @@ class Time extends React.Component {
     };
   }
   render() {
+    const media = { desktop: "@media(min-width: 1000px)" };
+
     const TimeDateWrap = styled.div`
-      padding-right: 36px;
+      text-align: center;
+      margin-bottom: 16px;
+
+      ${media.desktop} {
+        margin-bottom: 0;
+        padding-right: 36px;
+      }
     `;
 
     return (
