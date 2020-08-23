@@ -1,13 +1,14 @@
 import React from "react";
 import "../App/index.css";
 
+import { ContentWrap } from "../../Elements/ContentWrap/";
 import { Header } from "../../Elements/Header/";
 import Display from "../../Components/Display";
 import { Footer } from "../../Elements/Footer/";
 
 function App() {
   return (
-    <div className="content">
+    <ContentWrap>
       <Header>
         <h1>Animal Crossing Now</h1>
         <p>
@@ -19,7 +20,7 @@ function App() {
       <Footer>
         If you find this site helpful, you can buy us a coffee at (link).
       </Footer>
-    </div>
+    </ContentWrap>
   );
 }
 
