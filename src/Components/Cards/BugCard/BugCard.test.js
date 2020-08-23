@@ -8,10 +8,18 @@ it("renders a BugCard", () => {
   const image = "Cricket";
   const name = "Cricket";
   const location = "On ground";
+  const availability = "17 - 8";
 
   // when
   const tree = renderer
-    .create(<BugCard image={image} name={name} location={location} />)
+    .create(
+      <BugCard
+        image={image}
+        name={name}
+        location={location}
+        availability={availability}
+      />
+    )
     .toJSON();
 
   //   then

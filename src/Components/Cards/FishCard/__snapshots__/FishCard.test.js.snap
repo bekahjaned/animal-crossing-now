@@ -16,5 +16,9 @@ exports[`renders a FishCard 1`] = `
   <p>
     Sea
   </p>
+  <p>
+    Available: 
+    0 - 23
+  </p>
 </div>
 `;

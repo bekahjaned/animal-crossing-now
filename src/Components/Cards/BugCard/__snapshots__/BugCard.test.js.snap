@@ -16,5 +16,9 @@ exports[`renders a BugCard 1`] = `
   <p>
     On ground
   </p>
+  <p>
+    Available: 
+    17 - 8
+  </p>
 </div>
 `;

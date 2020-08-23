@@ -8,10 +8,18 @@ it("renders a FishCard", () => {
   const image = "Squid";
   const name = "Squid";
   const location = "Sea";
+  const availability = "0 - 23";
 
   // when
   const tree = renderer
-    .create(<FishCard image={image} name={name} location={location} />)
+    .create(
+      <FishCard
+        image={image}
+        name={name}
+        location={location}
+        availability={availability}
+      />
+    )
     .toJSON();
 
   // then
