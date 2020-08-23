@@ -4,7 +4,7 @@ export const Header = styled.div`
   grid-column: 1 / 13;
   text-align: center;
   font-size: 18px;
-  margin-bottom: 40px;
+
   h1 {
     font-size: 45px;
     font-weight: 700;

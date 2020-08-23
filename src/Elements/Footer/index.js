@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Footer = styled.div`
   text-align: center;
   grid-column: 1 / 13;
+  height: 55px;
 
   .bmc-button {
     padding: 7px 15px 7px 10px;

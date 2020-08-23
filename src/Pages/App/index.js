@@ -26,7 +26,7 @@ function App() {
             src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
             alt="Buy us a coffee"
           />
-          <span>If you found this helpful, buy us a coffee?</span>
+          <span>Buy us a coffee?</span>
         </a>
       </Footer>
     </ContentWrap>
