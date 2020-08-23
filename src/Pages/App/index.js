@@ -1,13 +1,14 @@
 import React from "react";
 import "../App/index.css";
 
+import { ContentWrap } from "../../Elements/ContentWrap/";
 import { Header } from "../../Elements/Header/";
 import Display from "../../Components/Display";
 import { Footer } from "../../Elements/Footer/";
 
 function App() {
   return (
-    <div className="content">
+    <ContentWrap>
       <Header>
         <h1>Animal Crossing Now</h1>
         <p>
@@ -17,9 +18,18 @@ function App() {
       </Header>
       <Display />
       <Footer>
-        If you find this site helpful, you can buy us a coffee at (link).
+        <a
+          className="bmc-button"
+          href="https://www.buymeacoffee.com/mannyandrebekah"
+        >
+          <img
+            src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
+            alt="Buy us a coffee"
+          />
+          <span>If you found this helpful, buy us a coffee?</span>
+        </a>
       </Footer>
-    </div>
+    </ContentWrap>
   );
 }
 
