@@ -7,7 +7,7 @@ export const ContentWrap = styled.div`
   grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: minmax(100px, auto);
   grid-gap: 30px;
-  max-width: 375px;
+  max-width: 382px;
   margin: 0 auto;
 
   ${media.desktop} {
