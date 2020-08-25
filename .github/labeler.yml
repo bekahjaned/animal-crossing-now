@@ -1,0 +1,2 @@
+components:
+- any: ['src/Components/*']
