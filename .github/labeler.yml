@@ -1,2 +1,11 @@
 components:
-- 'src/Components/*/*'
+  - "src/Components/*/*"
+
+elements:
+  - "src/Elements/*/*"
+
+pages:
+  - "src/Pages/*/*"
+
+public:
+  - "public/*"
