@@ -56,9 +56,9 @@ class Critters extends React.Component {
 
     return (
       <div>
-        <CritterDisplay>Fish available now:</CritterDisplay>
+        <CritterDisplay>Fish available now</CritterDisplay>
         <CritterGrid>{availableFish}</CritterGrid>
-        <CritterDisplay>Bugs available now:</CritterDisplay>
+        <CritterDisplay>Bugs available now</CritterDisplay>
         <CritterGrid>{availableBugs}</CritterGrid>
       </div>
     );
