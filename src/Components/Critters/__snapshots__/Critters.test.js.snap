@@ -3,12 +3,12 @@
 exports[`renders multiple FishCards and BugCards 1`] = `
 <div>
   <h3
-    className="sc-AxjAm kbdyhu"
+    className="sc-AxjAm fAGSgP"
   >
     Fish available now
   </h3>
   <div
-    className="sc-AxirZ bHoUSP"
+    className="sc-AxirZ LKZry"
   >
     <div
       className="critter"
@@ -72,12 +72,12 @@ exports[`renders multiple FishCards and BugCards 1`] = `
     </div>
   </div>
   <h3
-    className="sc-AxjAm kbdyhu"
+    className="sc-AxjAm fAGSgP"
   >
     Bugs available now
   </h3>
   <div
-    className="sc-AxirZ bHoUSP"
+    className="sc-AxirZ LKZry"
   >
     <div
       className="critter"
