@@ -16,7 +16,9 @@ exports[`renders a FishCard 1`] = `
   <p>
     Sea
   </p>
-  <p>
+  <p
+    className="availability"
+  >
     Available: 
     0 - 23
   </p>

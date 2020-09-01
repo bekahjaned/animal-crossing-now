@@ -25,7 +25,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         Sea
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         0 - 23
       </p>
@@ -45,7 +47,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         Pier
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         0 - 23
       </p>
@@ -65,7 +69,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         River
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         9 - 16, 21 - 4
       </p>
@@ -94,7 +100,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         On rotten food
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         0 - 23
       </p>
@@ -114,7 +122,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         On beach rocks
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         0 - 23
       </p>
@@ -134,7 +144,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         On trees
       </p>
-      <p>
+      <p
+        className="availability"
+      >
         Available: 
         4 - 8, 16 - 19
       </p>

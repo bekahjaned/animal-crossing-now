@@ -1043,34 +1043,8 @@
     "image": "Jewel Beetle",
     "availability": {
       "hemisphere": {
-        "northern": [
-          "January",
-          "February",
-          "March",
-          "April",
-          "May",
-          "June",
-          "July",
-          "August",
-          "September",
-          "October",
-          "November",
-          "December"
-        ],
-        "southern": [
-          "January",
-          "February",
-          "March",
-          "April",
-          "May",
-          "June",
-          "July",
-          "August",
-          "September",
-          "October",
-          "November",
-          "December"
-        ]
+        "northern": ["April", "May", "June", "July", "August"],
+        "southern": ["January", "February", "October", "November", "December"]
       },
       "hours": [
         [

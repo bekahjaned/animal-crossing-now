@@ -30,11 +30,13 @@ class Time extends React.Component {
     };
 
     let hour = updateTime(today.getHours());
+    let AmOrPm = hour >= 12 ? "pm" : "am";
+    hour = hour % 12 || 12;
 
     let min = updateTime(today.getMinutes());
 
     this.state = {
-      time: hour + ":" + min,
+      time: hour + ":" + min + AmOrPm,
       date:
         months[today.getMonth()] +
         " " +
