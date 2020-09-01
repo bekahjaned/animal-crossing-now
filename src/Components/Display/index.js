@@ -24,7 +24,7 @@ class Display extends React.Component {
       "June",
       "July",
       "August",
-      "Spetember",
+      "September",
       "October",
       "November",
       "December",
