@@ -13,7 +13,7 @@ class BugCard extends React.Component {
         ></img>
         <p className="critter-name">{name}</p>
         <p>{location}</p>
-        <p>Available: {availability}</p>
+        <p className="availability">Available: {availability}</p>
       </div>
     );
   }
