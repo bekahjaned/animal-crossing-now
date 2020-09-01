@@ -1415,7 +1415,7 @@
   },
   {
     "name": "Goliath Beetle",
-    "location": "On coconut trees",
+    "location": "On palm trees",
     "image": "Goliath Beetle",
     "availability": {
       "hemisphere": {
@@ -1529,7 +1529,7 @@
   },
   {
     "name": "Cyclommatus Stag",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Cyclommatus Stag",
     "availability": {
       "hemisphere": {
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "Golden Stag",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Golden Stag",
     "availability": {
       "hemisphere": {
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Giraffe Stag",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Giraffe Stag",
     "availability": {
       "hemisphere": {
@@ -1577,7 +1577,7 @@
   },
   {
     "name": "Horned Atlas",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Horned Atlas",
     "availability": {
       "hemisphere": {
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "Horned Elephant",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Horned Elephant",
     "availability": {
       "hemisphere": {
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "Horned Hercules",
-    "location": "On trees",
+    "location": "On palm trees",
     "image": "Horned Hercules",
     "availability": {
       "hemisphere": {
