@@ -9,3 +9,9 @@ pages:
 
 public:
   - "public/*"
+  
+data:
+  - "src/data/*"
+
+images:
+  - "src/data/images/*"
