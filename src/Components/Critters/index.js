@@ -13,12 +13,25 @@ class Critters extends React.Component {
 
       const { hours } = availability;
       let availableTime = "";
-      if (hours.length === 2) {
-        const slot1 = `${hours[0][0]} - ${hours[0][hours[0].length - 1]}`;
-        const slot2 = `${hours[1][0]} - ${hours[1][hours[1].length - 1]}`;
-        availableTime = `${slot1}, ${slot2}`;
-      } else
-        availableTime = `${hours[0][0]} - ${hours[0][hours[0].length - 1]}`;
+
+      hours.forEach((hour) => {
+        if (hour.length === 24) {
+          availableTime = "all day";
+        } else {
+          const AmOrPm1 = hour[0] >= 12 ? "pm" : "am";
+          hour[0] = hour[0] % 12 || 12;
+
+          const AmOrPm2 = hour[hour.length - 1] >= 12 ? "pm" : "am";
+          hour[hour.length - 1] = hour[hour.length - 1] % 12 || 12;
+
+          if (availableTime !== "") {
+            availableTime += ", ";
+          }
+          availableTime += `${hour[0] + AmOrPm1} - ${
+            hour[hour.length - 1] + AmOrPm2
+          }`;
+        }
+      });
 
       return (
         <FishCard
@@ -36,12 +49,25 @@ class Critters extends React.Component {
 
       const { hours } = availability;
       let availableTime = "";
-      if (hours.length === 2) {
-        const slot1 = `${hours[0][0]} - ${hours[0][hours[0].length - 1]}`;
-        const slot2 = `${hours[1][0]} - ${hours[1][hours[1].length - 1]}`;
-        availableTime = `${slot1}, ${slot2}`;
-      } else
-        availableTime = `${hours[0][0]} - ${hours[0][hours[0].length - 1]}`;
+
+      hours.forEach((hour) => {
+        if (hour.length === 24) {
+          availableTime = "all day";
+        } else {
+          const AmOrPm1 = hour[0] >= 12 ? "pm" : "am";
+          hour[0] = hour[0] % 12 || 12;
+
+          const AmOrPm2 = hour[hour.length - 1] >= 12 ? "pm" : "am";
+          hour[hour.length - 1] = hour[hour.length - 1] % 12 || 12;
+
+          if (availableTime !== "") {
+            availableTime += ", ";
+          }
+          availableTime += `${hour[0] + AmOrPm1} - ${
+            hour[hour.length - 1] + AmOrPm2
+          }`;
+        }
+      });
 
       return (
         <BugCard

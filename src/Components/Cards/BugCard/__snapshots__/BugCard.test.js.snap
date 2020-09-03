@@ -16,7 +16,9 @@ exports[`renders a BugCard 1`] = `
   <p>
     On ground
   </p>
-  <p>
+  <p
+    className="availability"
+  >
     Available: 
     17 - 8
   </p>
