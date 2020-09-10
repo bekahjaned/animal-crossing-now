@@ -2,6 +2,7 @@
   {
     "name": "Bitterling",
     "location": "River",
+    "price": "900",
     "image": "Bitterling",
     "availability": {
       "hemisphere": {
@@ -41,6 +42,7 @@
   {
     "name": "Pale Chub",
     "location": "River",
+    "price": "160",
     "image": "Pale Chub",
     "availability": {
       "hemisphere": {
@@ -79,6 +81,7 @@
   {
     "name": "Crucian Carp",
     "location": "River",
+    "price": "160",
     "image": "Crucian Carp",
     "availability": {
       "hemisphere": {
@@ -144,6 +147,7 @@
   {
     "name": "Dace",
     "location": "River",
+    "price": "240",
     "image": "Dace",
     "availability": {
       "hemisphere": {
@@ -182,6 +186,7 @@
   {
     "name": "Carp",
     "location": "Pond",
+    "price": "300",
     "image": "Carp",
     "availability": {
       "hemisphere": {
@@ -247,6 +252,7 @@
   {
     "name": "Koi",
     "location": "Pond",
+    "price": "4,000",
     "image": "Koi",
     "availability": {
       "hemisphere": {
@@ -285,6 +291,7 @@
   {
     "name": "Goldfish",
     "location": "Pond",
+    "price": "1,300",
     "image": "Goldfish",
     "availability": {
       "hemisphere": {
@@ -350,6 +357,7 @@
   {
     "name": "Pop-eyed Goldfish",
     "location": "Pond",
+    "price": "1,300",
     "image": "Pop-eyed Goldfish",
     "availability": {
       "hemisphere": {
@@ -388,6 +396,7 @@
   {
     "name": "Ranchu Goldfish",
     "location": "Pond",
+    "price": "4,500",
     "image": "Ranchu Goldfish",
     "availability": {
       "hemisphere": {
@@ -426,6 +435,7 @@
   {
     "name": "Killifish",
     "location": "River",
+    "price": "300",
     "image": "Killifish",
     "availability": {
       "hemisphere": {
@@ -465,6 +475,7 @@
   {
     "name": "Crawfish",
     "location": "Pond",
+    "price": "200",
     "image": "Crawfish",
     "availability": {
       "hemisphere": {
@@ -511,6 +522,7 @@
   {
     "name": "Soft-shelled Turtle",
     "location": "River",
+    "price": "3,750",
     "image": "Soft-shelled Turtle",
     "availability": {
       "hemisphere": {
@@ -523,6 +535,7 @@
   {
     "name": "Snapping Turtle",
     "location": "River",
+    "price": "5,000",
     "image": "Snapping Turtle",
     "availability": {
       "hemisphere": {
@@ -551,6 +564,7 @@
   {
     "name": "Tadpole",
     "location": "Pond",
+    "price": "100",
     "image": "Tadpole",
     "availability": {
       "hemisphere": {
@@ -590,6 +604,7 @@
   {
     "name": "Frog",
     "location": "Pond",
+    "price": "120",
     "image": "Frog",
     "availability": {
       "hemisphere": {
@@ -629,6 +644,7 @@
   {
     "name": "Freshwater Goby",
     "location": "River",
+    "price": "400",
     "image": "Freshwater Goby",
     "availability": {
       "hemisphere": {
@@ -667,6 +683,7 @@
   {
     "name": "Loach",
     "location": "River",
+    "price": "400",
     "image": "Loach",
     "availability": {
       "hemisphere": {
@@ -705,6 +722,7 @@
   {
     "name": "Catfish",
     "location": "Pond",
+    "price": "800",
     "image": "Catfish",
     "availability": {
       "hemisphere": {
@@ -724,6 +742,7 @@
   {
     "name": "Giant Snakehead",
     "location": "Pond",
+    "price": "5,500",
     "image": "Giant Snakehead",
     "availability": {
       "hemisphere": {
@@ -736,6 +755,7 @@
   {
     "name": "Bluegill",
     "location": "River",
+    "price": "180",
     "image": "Bluegill",
     "availability": {
       "hemisphere": {
@@ -774,6 +794,7 @@
   {
     "name": "Yellow Perch",
     "location": "River",
+    "price": "300",
     "image": "Yellow Perch",
     "availability": {
       "hemisphere": {
@@ -839,6 +860,7 @@
   {
     "name": "Black Bass",
     "location": "River",
+    "price": "400",
     "image": "Black Bass",
     "availability": {
       "hemisphere": {
@@ -904,6 +926,7 @@
   {
     "name": "Tilapia",
     "location": "River",
+    "price": "800",
     "image": "Tilapia",
     "availability": {
       "hemisphere": {
@@ -943,6 +966,7 @@
   {
     "name": "Pike",
     "location": "River",
+    "price": "1,800",
     "image": "Pike",
     "availability": {
       "hemisphere": {
@@ -982,6 +1006,7 @@
   {
     "name": "Pond Smelt",
     "location": "River",
+    "price": "500",
     "image": "Pond Smelt",
     "availability": {
       "hemisphere": {
@@ -1021,6 +1046,7 @@
   {
     "name": "Sweetfish",
     "location": "River",
+    "price": "900",
     "image": "Sweetfish",
     "availability": {
       "hemisphere": {
@@ -1060,6 +1086,7 @@
   {
     "name": "Cherry Salmon",
     "location": "River (Clifftop)",
+    "price": "1,000",
     "image": "Cherry Salmon",
     "availability": {
       "hemisphere": {
@@ -1088,6 +1115,7 @@
   {
     "name": "Char",
     "location": "River (clifftop)",
+    "price": "3,800",
     "image": "Char",
     "availability": {
       "hemisphere": {
@@ -1116,6 +1144,7 @@
   {
     "name": "Golden Trout",
     "location": "River (clifftop)",
+    "price": "15,000",
     "image": "Golden Trout",
     "availability": {
       "hemisphere": {
@@ -1144,6 +1173,7 @@
   {
     "name": "Stringfish",
     "location": "River (clifftop)",
+    "price": "15,000",
     "image": "Stringfish",
     "availability": {
       "hemisphere": {
@@ -1156,6 +1186,7 @@
   {
     "name": "Salmon",
     "location": "River (mouth)",
+    "price": "700",
     "image": "Salmon",
     "availability": {
       "hemisphere": {
@@ -1195,6 +1226,7 @@
   {
     "name": "King Salmon",
     "location": "River (mouth)",
+    "price": "1,800",
     "image": "King Salmon",
     "availability": {
       "hemisphere": {
@@ -1234,6 +1266,7 @@
   {
     "name": "Mitten Crab",
     "location": "River",
+    "price": "2,000",
     "image": "Mitten Crab",
     "availability": {
       "hemisphere": {
@@ -1246,6 +1279,7 @@
   {
     "name": "Guppy",
     "location": "River",
+    "price": "1,300",
     "image": "Guppy",
     "availability": {
       "hemisphere": {
@@ -1267,6 +1301,7 @@
   {
     "name": "Nibble Fish",
     "location": "River",
+    "price": "1,500",
     "image": "Nibble Fish",
     "availability": {
       "hemisphere": {
@@ -1279,6 +1314,7 @@
   {
     "name": "Angelfish",
     "location": "River",
+    "price": "3,000",
     "image": "Angelfish",
     "availability": {
       "hemisphere": {
@@ -1298,6 +1334,7 @@
   {
     "name": "Betta",
     "location": "River",
+    "price": "2,500",
     "image": "Betta",
     "availability": {
       "hemisphere": {
@@ -1310,6 +1347,7 @@
   {
     "name": "Neon Tetra",
     "location": "River",
+    "price": "500",
     "image": "Neon Tetra",
     "availability": {
       "hemisphere": {
@@ -1340,6 +1378,7 @@
   {
     "name": "Rainbowfish",
     "location": "River",
+    "price": "800",
     "image": "Rainbowfish",
     "availability": {
       "hemisphere": {
@@ -1359,6 +1398,7 @@
   {
     "name": "Piranha",
     "location": "River",
+    "price": "2,500",
     "image": "Piranha",
     "availability": {
       "hemisphere": {
@@ -1374,6 +1414,7 @@
   {
     "name": "Arowana",
     "location": "River",
+    "price": "10,000",
     "image": "Arowana",
     "availability": {
       "hemisphere": {
@@ -1386,6 +1427,7 @@
   {
     "name": "Dorado",
     "location": "River",
+    "price": "15,000",
     "image": "Dorado",
     "availability": {
       "hemisphere": {
@@ -1400,6 +1442,7 @@
   {
     "name": "Gar",
     "location": "Pond",
+    "price": "6,000",
     "image": "Gar",
     "availability": {
       "hemisphere": {
@@ -1412,6 +1455,7 @@
   {
     "name": "Arapaima",
     "location": "River",
+    "price": "10,000",
     "image": "Arapaima",
     "availability": {
       "hemisphere": {
@@ -1424,6 +1468,7 @@
   {
     "name": "Saddled Bichir",
     "location": "River",
+    "price": "4,000",
     "image": "Saddled Bichir",
     "availability": {
       "hemisphere": {
@@ -1436,6 +1481,7 @@
   {
     "name": "Sturgeon",
     "location": "River (mouth)",
+    "price": "10,000",
     "image": "Sturgeon",
     "availability": {
       "hemisphere": {
@@ -1491,6 +1537,7 @@
   {
     "name": "Sea Butterfly",
     "location": "Sea",
+    "price": "1,000",
     "image": "Sea Butterfly",
     "availability": {
       "hemisphere": {
@@ -1530,6 +1577,7 @@
   {
     "name": "Sea Horse",
     "location": "Sea",
+    "price": "1,100",
     "image": "Sea Horse",
     "availability": {
       "hemisphere": {
@@ -1586,6 +1634,7 @@
   {
     "name": "Clown Fish",
     "location": "Sea",
+    "price": "600",
     "image": "Clown Fish",
     "availability": {
       "hemisphere": {
@@ -1632,6 +1681,7 @@
   {
     "name": "Surgeonfish",
     "location": "Sea",
+    "price": "1,000",
     "image": "Surgeonfish",
     "availability": {
       "hemisphere": {
@@ -1678,6 +1728,7 @@
   {
     "name": "Butterfly Fish",
     "location": "Sea",
+    "price": "1,000",
     "image": "Butterfly Fish",
     "availability": {
       "hemisphere": {
@@ -1724,6 +1775,7 @@
   {
     "name": "Napoleonfish",
     "location": "Sea",
+    "price": "10,000",
     "image": "Napoleon Fish",
     "availability": {
       "hemisphere": {
@@ -1738,6 +1790,7 @@
   {
     "name": "Zebra Turkeyfish",
     "location": "Sea",
+    "price": "500",
     "image": "Zebra Turkeyfish",
     "availability": {
       "hemisphere": {
@@ -1795,6 +1848,7 @@
   {
     "name": "Blowfish",
     "location": "Sea",
+    "price": "5,000",
     "image": "Blowfish",
     "availability": {
       "hemisphere": {
@@ -1807,6 +1861,7 @@
   {
     "name": "Puffer Fish",
     "location": "Sea",
+    "price": "250",
     "image": "Puffer Fish",
     "availability": {
       "hemisphere": {
@@ -1846,6 +1901,7 @@
   {
     "name": "Anchovy",
     "location": "Sea",
+    "price": "200",
     "image": "Anchovy",
     "availability": {
       "hemisphere": {
@@ -1886,6 +1942,7 @@
   {
     "name": "Horse Mackerel",
     "location": "Sea",
+    "price": "150",
     "image": "Horse Mackerel",
     "availability": {
       "hemisphere": {
@@ -1951,6 +2008,7 @@
   {
     "name": "Barred Knifejaw",
     "location": "Sea",
+    "price": "5,000",
     "image": "Barred Knifejaw",
     "availability": {
       "hemisphere": {
@@ -2010,6 +2068,7 @@
   {
     "name": "Sea Bass",
     "location": "Sea",
+    "price": "400",
     "image": "Sea Bass",
     "availability": {
       "hemisphere": {
@@ -2075,6 +2134,7 @@
   {
     "name": "Red Snapper",
     "location": "Sea",
+    "price": "3,000",
     "image": "Red Snapper",
     "availability": {
       "hemisphere": {
@@ -2140,6 +2200,7 @@
   {
     "name": "Dab",
     "location": "Sea",
+    "price": "300",
     "image": "Dab",
     "availability": {
       "hemisphere": {
@@ -2187,6 +2248,7 @@
   {
     "name": "Olive Flounder",
     "location": "Sea",
+    "price": "800",
     "image": "Olive Flounder",
     "availability": {
       "hemisphere": {
@@ -2252,6 +2314,7 @@
   {
     "name": "Squid",
     "location": "Sea",
+    "price": "500",
     "image": "Squid",
     "availability": {
       "hemisphere": {
@@ -2311,6 +2374,7 @@
   {
     "name": "Moray Eel",
     "location": "Sea",
+    "price": "2,000",
     "image": "Moray Eel",
     "availability": {
       "hemisphere": {
@@ -2350,6 +2414,7 @@
   {
     "name": "Ribbon Eel",
     "location": "Sea",
+    "price": "600",
     "image": "Ribbon Eel",
     "availability": {
       "hemisphere": {
@@ -2389,6 +2454,7 @@
   {
     "name": "Tuna",
     "location": "Pier",
+    "price": "7,000",
     "image": "Tuna",
     "availability": {
       "hemisphere": {
@@ -2435,6 +2501,7 @@
   {
     "name": "Blue Marlin",
     "location": "Pier",
+    "price": "10,000",
     "image": "Blue Marlin",
     "availability": {
       "hemisphere": {
@@ -2494,6 +2561,7 @@
   {
     "name": "Giant Trevally",
     "location": "Pier",
+    "price": "4,500",
     "image": "Giant Trevally",
     "availability": {
       "hemisphere": {
@@ -2533,6 +2601,7 @@
   {
     "name": "Mahi-mahi",
     "location": "Pier",
+    "price": "6,000",
     "image": "Mahi-mahi",
     "availability": {
       "hemisphere": {
@@ -2579,6 +2648,7 @@
   {
     "name": "Ocean Sunfish",
     "location": "Sea",
+    "price": "4,000",
     "image": "Ocean Sunfish",
     "availability": {
       "hemisphere": {
@@ -2593,6 +2663,7 @@
   {
     "name": "Ray",
     "location": "Sea",
+    "price": "3,000",
     "image": "Ray",
     "availability": {
       "hemisphere": {
@@ -2607,6 +2678,7 @@
   {
     "name": "Saw Shark",
     "location": "Sea",
+    "price": "12,000",
     "image": "Saw Shark",
     "availability": {
       "hemisphere": {
@@ -2619,6 +2691,7 @@
   {
     "name": "Hammerhead Shark",
     "location": "Sea",
+    "price": "8,000",
     "image": "Hammerhead Shark",
     "availability": {
       "hemisphere": {
@@ -2631,6 +2704,7 @@
   {
     "name": "Great White Shark",
     "location": "Sea",
+    "price": "15,000",
     "image": "Great White Shark",
     "availability": {
       "hemisphere": {
@@ -2643,6 +2717,7 @@
   {
     "name": "Whale Shark",
     "location": "Sea",
+    "price": "13,000",
     "image": "Whale Shark",
     "availability": {
       "hemisphere": {
@@ -2682,6 +2757,7 @@
   {
     "name": "Suckerfish",
     "location": "Sea",
+    "price": "1,500",
     "image": "Suckerfish",
     "availability": {
       "hemisphere": {
@@ -2721,6 +2797,7 @@
   {
     "name": "Football Fish",
     "location": "Sea",
+    "price": "2,500",
     "image": "Football Fish",
     "availability": {
       "hemisphere": {
@@ -2733,6 +2810,7 @@
   {
     "name": "Oarfish",
     "location": "Sea",
+    "price": "9,000",
     "image": "Oarfish",
     "availability": {
       "hemisphere": {
@@ -2786,6 +2864,7 @@
   {
     "name": "Barreleye",
     "location": "Sea",
+    "price": "15,000",
     "image": "Barreleye",
     "availability": {
       "hemisphere": {
@@ -2824,6 +2903,7 @@
   {
     "name": "Coelacanth",
     "location": "Sea (Rainy days)",
+    "price": "15,000",
     "image": "Coelacanth",
     "availability": {
       "hemisphere": {

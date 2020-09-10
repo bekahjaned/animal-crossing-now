@@ -9,7 +9,7 @@ import { CritterGrid } from "../../Elements/CritterGrid/";
 class Critters extends React.Component {
   render() {
     const availableFish = this.props.allAvailableFish.map((fish) => {
-      const { image, name, location, availability } = fish;
+      const { image, name, location, availability, price } = fish;
 
       const { hours } = availability;
       let availableTime = "";
@@ -39,13 +39,14 @@ class Critters extends React.Component {
           name={name}
           location={location}
           availability={availableTime}
+          price={price}
           key={name}
         />
       );
     });
 
     const availableBugs = this.props.allAvailableBugs.map((bug) => {
-      const { image, name, location, availability } = bug;
+      const { image, name, location, availability, price } = bug;
 
       const { hours } = availability;
       let availableTime = "";
@@ -75,6 +76,7 @@ class Critters extends React.Component {
           name={name}
           location={location}
           availability={availableTime}
+          price={price}
           key={name}
         />
       );

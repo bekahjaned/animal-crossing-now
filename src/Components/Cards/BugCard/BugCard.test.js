@@ -9,6 +9,7 @@ it("renders a BugCard", () => {
   const name = "Cricket";
   const location = "On ground";
   const availability = "17 - 8";
+  const price = "130";
 
   // when
   const tree = renderer
@@ -18,6 +19,7 @@ it("renders a BugCard", () => {
         name={name}
         location={location}
         availability={availability}
+        price={price}
       />
     )
     .toJSON();

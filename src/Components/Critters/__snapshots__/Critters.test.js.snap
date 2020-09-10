@@ -31,6 +31,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         Available: 
         12am - 11pm
       </p>
+      <p>
+        Bells: 
+        2,000
+      </p>
     </div>
     <div
       className="critter"
@@ -53,6 +57,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         Available: 
         12am - 11pm
       </p>
+      <p>
+        Bells: 
+        5,500
+      </p>
     </div>
     <div
       className="critter"
@@ -74,6 +82,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       >
         Available: 
         9am - 4pm, 9pm - 4am
+      </p>
+      <p>
+        Bells: 
+        2,500
       </p>
     </div>
   </div>
@@ -106,6 +118,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         Available: 
         12am - 11pm
       </p>
+      <p>
+        Bells: 
+        80
+      </p>
     </div>
     <div
       className="critter"
@@ -128,6 +144,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         Available: 
         12am - 11pm
       </p>
+      <p>
+        Bells: 
+        200
+      </p>
     </div>
     <div
       className="critter"
@@ -149,6 +169,10 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       >
         Available: 
         4am - 8am, 4pm - 7pm
+      </p>
+      <p>
+        Bells: 
+        550
       </p>
     </div>
   </div>
