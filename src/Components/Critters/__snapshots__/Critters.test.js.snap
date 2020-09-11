@@ -32,8 +32,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         12am - 11pm
       </p>
       <p>
-        Bells: 
+        Price: 
         2,000
+         Bells
       </p>
     </div>
     <div
@@ -58,8 +59,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         12am - 11pm
       </p>
       <p>
-        Bells: 
+        Price: 
         5,500
+         Bells
       </p>
     </div>
     <div
@@ -84,8 +86,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         9am - 4pm, 9pm - 4am
       </p>
       <p>
-        Bells: 
+        Price: 
         2,500
+         Bells
       </p>
     </div>
   </div>
@@ -119,8 +122,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         12am - 11pm
       </p>
       <p>
-        Bells: 
+        Price: 
         80
+         Bells
       </p>
     </div>
     <div
@@ -145,8 +149,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         12am - 11pm
       </p>
       <p>
-        Bells: 
+        Price: 
         200
+         Bells
       </p>
     </div>
     <div
@@ -171,8 +176,9 @@ exports[`renders multiple FishCards and BugCards 1`] = `
         4am - 8am, 4pm - 7pm
       </p>
       <p>
-        Bells: 
+        Price: 
         550
+         Bells
       </p>
     </div>
   </div>

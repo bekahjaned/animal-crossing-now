@@ -23,8 +23,9 @@ exports[`renders a BugCard 1`] = `
     17 - 8
   </p>
   <p>
-    Bells: 
+    Price: 
     130
+     Bells
   </p>
 </div>
 `;
