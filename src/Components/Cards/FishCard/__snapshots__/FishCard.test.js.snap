@@ -22,5 +22,10 @@ exports[`renders a FishCard 1`] = `
     Available: 
     0 - 23
   </p>
+  <p>
+    Price: 
+    500
+     Bells
+  </p>
 </div>
 `;

@@ -9,6 +9,7 @@ it("renders a FishCard", () => {
   const name = "Squid";
   const location = "Sea";
   const availability = "0 - 23";
+  const price = "500";
 
   // when
   const tree = renderer
@@ -18,6 +19,7 @@ it("renders a FishCard", () => {
         name={name}
         location={location}
         availability={availability}
+        price={price}
       />
     )
     .toJSON();

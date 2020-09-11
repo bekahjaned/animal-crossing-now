@@ -9,6 +9,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Moray Eel",
       location: "Sea",
+      price: "2,000",
       image: "Moray Eel",
       availability: {
         hours: [
@@ -43,6 +44,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Giant Trevally",
       location: "Pier",
+      price: "5,500",
       image: "Giant Trevally",
       availability: {
         hours: [
@@ -77,6 +79,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Piranha",
       location: "River",
+      price: "2,500",
       image: "Piranha",
       availability: {
         hours: [
@@ -91,6 +94,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Ant",
       location: "On rotten food",
+      price: "80",
       image: "Ant",
       availability: {
         hours: [
@@ -125,6 +129,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Wharf Roach",
       location: "On beach rocks",
+      price: "200",
       image: "Wharf Roach",
       availability: {
         hours: [
@@ -159,6 +164,7 @@ it("renders multiple FishCards and BugCards", () => {
     {
       name: "Evening Cicada",
       location: "On trees",
+      price: "550",
       image: "Evening Cicada",
       availability: {
         hours: [

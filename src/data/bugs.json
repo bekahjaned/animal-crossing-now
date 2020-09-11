@@ -1,6 +1,7 @@
 [
   {
     "name": "Common Butterfly",
+    "price": "160",
     "location": "Flying",
     "image": "Common Butterfly",
     "availability": {
@@ -36,6 +37,7 @@
   {
     "name": "Yellow Butterfly",
     "location": "Flying",
+    "price": "160",
     "image": "Yellow Butterfly",
     "availability": {
       "hemisphere": {
@@ -54,6 +56,7 @@
   },
   {
     "name": "Tiger Butterfly",
+    "price": "240",
     "location": "Flying",
     "image": "Tiger Butterfly",
     "availability": {
@@ -82,7 +85,8 @@
   },
   {
     "name": "Peacock Butterfly",
-    "location": "Flying (hybrid flowers",
+    "location": "Flying (hybrid flowers)",
+    "price": "2,500",
     "image": "Peacock Butterfly",
     "availability": {
       "hemisphere": {
@@ -95,6 +99,7 @@
   {
     "name": "Common Bluebottle",
     "location": "Flying",
+    "price": "300",
     "image": "Common Bluebottle",
     "availability": {
       "hemisphere": {
@@ -107,6 +112,7 @@
   {
     "name": "Paper Kite Butterfly",
     "location": "Flying",
+    "price": "1,000",
     "image": "Paper Kite Butterfly",
     "availability": {
       "hemisphere": {
@@ -145,6 +151,7 @@
   {
     "name": "Great Purple Emperor",
     "location": "Flying",
+    "price": "3,000",
     "image": "Great Purple Emperor",
     "availability": {
       "hemisphere": {
@@ -157,6 +164,7 @@
   {
     "name": "Monarch Butterfly",
     "location": "Flying",
+    "price": "140",
     "image": "Monarch Butterfly",
     "availability": {
       "hemisphere": {
@@ -169,6 +177,7 @@
   {
     "name": "Emperor Butterfly",
     "location": "Flying",
+    "price": "4,000",
     "image": "Emperor Butterfly",
     "availability": {
       "hemisphere": {
@@ -199,6 +208,7 @@
   {
     "name": "Agrias Butterfly",
     "location": "Flying",
+    "price": "3,000",
     "image": "Agrias Butterfly",
     "availability": {
       "hemisphere": {
@@ -218,6 +228,7 @@
   {
     "name": "Rajah Brooke's Birdwing",
     "location": "Flying",
+    "price": "2,500",
     "image": "Rajah Brooke's Birdwing",
     "availability": {
       "hemisphere": {
@@ -250,6 +261,7 @@
   {
     "name": "Queen Alexandra's Birdwing",
     "location": "Flying",
+    "price": "4,000",
     "image": "Queen Alexandra's Birdwing",
     "availability": {
       "hemisphere": {
@@ -269,6 +281,7 @@
   {
     "name": "Moth",
     "location": "Flying around light",
+    "price": "130",
     "image": "Moth",
     "availability": {
       "hemisphere": {
@@ -307,6 +320,7 @@
   {
     "name": "Atlas Moth",
     "location": "On trees",
+    "price": "3,000",
     "image": "Atlas Moth",
     "availability": {
       "hemisphere": {
@@ -326,6 +340,7 @@
   {
     "name": "Madagascan Sunset Moth",
     "location": "Flying",
+    "price": "2,500",
     "image": "Madagascan Sunset Moth",
     "availability": {
       "hemisphere": {
@@ -345,6 +360,7 @@
   {
     "name": "Long Locust",
     "location": "On ground",
+    "price": "200",
     "image": "Long Locust",
     "availability": {
       "hemisphere": {
@@ -375,6 +391,7 @@
   {
     "name": "Migratory Locust",
     "location": "On ground",
+    "price": "600",
     "image": "Migratory Locust",
     "availability": {
       "hemisphere": {
@@ -387,6 +404,7 @@
   {
     "name": "Rice Grasshopper",
     "location": "On ground",
+    "price": "160",
     "image": "Rice Grasshopper",
     "availability": {
       "hemisphere": {
@@ -399,6 +417,7 @@
   {
     "name": "Grasshopper",
     "location": "On ground",
+    "price": "160",
     "image": "Grasshopper",
     "availability": {
       "hemisphere": {
@@ -411,6 +430,7 @@
   {
     "name": "Cricket",
     "location": "On ground",
+    "price": "130",
     "image": "Cricket",
     "availability": {
       "hemisphere": {
@@ -423,6 +443,7 @@
   {
     "name": "Bell Cricket",
     "location": "On ground",
+    "price": "430",
     "image": "Bell Cricket",
     "availability": {
       "hemisphere": {
@@ -435,6 +456,7 @@
   {
     "name": "Mantis",
     "location": "On flowers",
+    "price": "430",
     "image": "Mantis",
     "availability": {
       "hemisphere": {
@@ -465,6 +487,7 @@
   {
     "name": "Orchid Mantis",
     "location": "On white flowers",
+    "price": "2,400",
     "image": "Orchid Mantis",
     "availability": {
       "hemisphere": {
@@ -497,6 +520,7 @@
   {
     "name": "Honeybee",
     "location": "Above flowers",
+    "price": "200",
     "image": "Honeybee",
     "availability": {
       "hemisphere": {
@@ -509,6 +533,7 @@
   {
     "name": "Wasp",
     "location": "Shaking trees",
+    "price": "2,500",
     "image": "Wasp",
     "availability": {
       "hemisphere": {
@@ -574,6 +599,7 @@
   {
     "name": "Brown Cicada",
     "location": "On trees",
+    "price": "250",
     "image": "Brown Cicada",
     "availability": {
       "hemisphere": {
@@ -586,6 +612,7 @@
   {
     "name": "Robust Cicada",
     "location": "On trees",
+    "price": "300",
     "image": "Robust Cicada",
     "availability": {
       "hemisphere": {
@@ -598,6 +625,7 @@
   {
     "name": "Giant Cicada",
     "location": "On trees",
+    "price": "600",
     "image": "Giant Cicada",
     "availability": {
       "hemisphere": {
@@ -610,6 +638,7 @@
   {
     "name": "Walker Cicada",
     "location": "On trees",
+    "price": "400",
     "image": "Walker Cicada",
     "availability": {
       "hemisphere": {
@@ -622,6 +651,7 @@
   {
     "name": "Evening Cicada",
     "location": "On trees",
+    "price": "550",
     "image": "Evening Cicada",
     "availability": {
       "hemisphere": {
@@ -637,6 +667,7 @@
   {
     "name": "Cicada Shell",
     "location": "On trees",
+    "price": "10",
     "image": "Cicada Shell",
     "availability": {
       "hemisphere": {
@@ -676,6 +707,7 @@
   {
     "name": "Red Dragonfly",
     "location": "Flying",
+    "price": "180",
     "image": "Red Dragonfly",
     "availability": {
       "hemisphere": {
@@ -688,6 +720,7 @@
   {
     "name": "Darner Dragonfly",
     "location": "Flying",
+    "price": "230",
     "image": "Darner Dragonfly",
     "availability": {
       "hemisphere": {
@@ -716,6 +749,7 @@
   {
     "name": "Banded Dragonfly",
     "location": "Flying",
+    "price": "4,500",
     "image": "Banded Dragonfly",
     "availability": {
       "hemisphere": {
@@ -735,6 +769,7 @@
   {
     "name": "Damselfly",
     "location": "Flying",
+    "price": "500",
     "image": "Damselfly",
     "availability": {
       "hemisphere": {
@@ -774,6 +809,7 @@
   {
     "name": "Firefly",
     "location": "Flying",
+    "price": "300",
     "image": "Firefly",
     "availability": {
       "hemisphere": {
@@ -786,6 +822,7 @@
   {
     "name": "Mole Cricket",
     "location": "Underground",
+    "price": "500",
     "image": "Mole Cricket",
     "availability": {
       "hemisphere": {
@@ -841,6 +878,7 @@
   {
     "name": "Pondskater",
     "location": "On ponds and rivers",
+    "price": "130",
     "image": "Pondskater",
     "availability": {
       "hemisphere": {
@@ -853,6 +891,7 @@
   {
     "name": "Diving Beetle",
     "location": "On ponds and rivers",
+    "price": "800",
     "image": "Diving Beetle",
     "availability": {
       "hemisphere": {
@@ -865,6 +904,7 @@
   {
     "name": "Giant Water Bug",
     "location": "On ponds and rivers",
+    "price": "2,000",
     "image": "Giant Water Bug",
     "availability": {
       "hemisphere": {
@@ -884,6 +924,7 @@
   {
     "name": "Stinkbug",
     "location": "On flowers",
+    "price": "120",
     "image": "Stinkbug",
     "availability": {
       "hemisphere": {
@@ -941,6 +982,7 @@
   {
     "name": "Man-faced Stinkbug",
     "location": "On flowers",
+    "price": "1,000",
     "image": "Man-faced Stink Bug",
     "availability": {
       "hemisphere": {
@@ -971,6 +1013,7 @@
   {
     "name": "Ladybug",
     "location": "On flowers",
+    "price": "200",
     "image": "Ladybug",
     "availability": {
       "hemisphere": {
@@ -983,6 +1026,7 @@
   {
     "name": "Tiger Beetle",
     "location": "On ground",
+    "price": "1,500",
     "image": "Tiger Beetle",
     "availability": {
       "hemisphere": {
@@ -1040,6 +1084,7 @@
   {
     "name": "Jewel Beetle",
     "location": "On tree stumps",
+    "price": "2,400",
     "image": "Jewel Beetle",
     "availability": {
       "hemisphere": {
@@ -1077,8 +1122,49 @@
     }
   },
   {
+    "name": "Violin Beetle",
+    "location": "On tree stumps",
+    "price": "450",
+    "image": "Violin Beetle",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "September", "October", "November"],
+        "southern": ["March", "April", "May", "November", "December"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
     "name": "Citrus Long-horned Beetle",
     "location": "On tree stumps",
+    "price": "350",
     "image": "Citrus Long-horned Beetle",
     "availability": {
       "hemisphere": {
@@ -1144,6 +1230,7 @@
   {
     "name": "Rosalia Batesi Beetle",
     "location": "On tree stumps",
+    "price": "3,000",
     "image": "Rosalia Batesi Beetle",
     "availability": {
       "hemisphere": {
@@ -1183,6 +1270,7 @@
   {
     "name": "Blue Weevil Beetle",
     "location": "On trees",
+    "price": "800",
     "image": "Blue Weevil Beetle",
     "availability": {
       "hemisphere": {
@@ -1220,47 +1308,9 @@
     }
   },
   {
-    "name": "Violin Beetle",
-    "location": "On tree stumps",
-    "image": "Violin Beetle",
-    "availability": {
-      "hemisphere": {
-        "northern": ["May", "June", "September", "October", "November"],
-        "southern": ["March", "April", "May", "November", "December"]
-      },
-      "hours": [
-        [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          23
-        ]
-      ]
-    }
-  },
-  {
     "name": "Dung Beetle",
     "location": "Rolling snowballs",
+    "price": "3,000",
     "image": "Dung Beetle",
     "availability": {
       "hemisphere": {
@@ -1300,6 +1350,7 @@
   {
     "name": "Earth-boring Dung Beetle",
     "location": "On ground",
+    "price": "300",
     "image": "Earth-boring Dung Beetle",
     "availability": {
       "hemisphere": {
@@ -1339,6 +1390,7 @@
   {
     "name": "Scarab Beetle",
     "location": "On trees",
+    "price": "10,000",
     "image": "Scarab Beetle",
     "availability": {
       "hemisphere": {
@@ -1350,7 +1402,8 @@
   },
   {
     "name": "Drone Beetle",
-    "location": "On ground",
+    "location": "On trees",
+    "price": "200",
     "image": "Drone Beetle",
     "availability": {
       "hemisphere": {
@@ -1390,6 +1443,7 @@
   {
     "name": "Goliath Beetle",
     "location": "On palm trees",
+    "price": "8,000",
     "image": "Goliath Beetle",
     "availability": {
       "hemisphere": {
@@ -1402,6 +1456,7 @@
   {
     "name": "Saw Stag",
     "location": "On trees",
+    "price": "2,000",
     "image": "Saw Stag",
     "availability": {
       "hemisphere": {
@@ -1441,6 +1496,7 @@
   {
     "name": "Miyama Stag",
     "location": "On trees",
+    "price": "1,000",
     "image": "Miyama Stag",
     "availability": {
       "hemisphere": {
@@ -1480,6 +1536,7 @@
   {
     "name": "Giant Stag",
     "location": "On trees",
+    "price": "10,000",
     "image": "Giant Stag",
     "availability": {
       "hemisphere": {
@@ -1492,6 +1549,7 @@
   {
     "name": "Rainbow Stag",
     "location": "On trees",
+    "price": "6,000",
     "image": "Rainbow Stag",
     "availability": {
       "hemisphere": {
@@ -1504,6 +1562,7 @@
   {
     "name": "Cyclommatus Stag",
     "location": "On palm trees",
+    "price": "8,000",
     "image": "Cyclommatus Stag",
     "availability": {
       "hemisphere": {
@@ -1516,6 +1575,7 @@
   {
     "name": "Golden Stag",
     "location": "On palm trees",
+    "price": "12,000",
     "image": "Golden Stag",
     "availability": {
       "hemisphere": {
@@ -1528,6 +1588,7 @@
   {
     "name": "Giraffe Stag",
     "location": "On palm trees",
+    "price": "12,000",
     "image": "Giraffe Stag",
     "availability": {
       "hemisphere": {
@@ -1540,6 +1601,7 @@
   {
     "name": "Horned Dynastid",
     "location": "On trees",
+    "price": "1,350",
     "image": "Horned Dynastid",
     "availability": {
       "hemisphere": {
@@ -1552,6 +1614,7 @@
   {
     "name": "Horned Atlas",
     "location": "On palm trees",
+    "price": "8,000",
     "image": "Horned Atlas",
     "availability": {
       "hemisphere": {
@@ -1564,6 +1627,7 @@
   {
     "name": "Horned Elephant",
     "location": "On palm trees",
+    "price": "8,000",
     "image": "Horned Elephant",
     "availability": {
       "hemisphere": {
@@ -1576,6 +1640,7 @@
   {
     "name": "Horned Hercules",
     "location": "On palm trees",
+    "price": "12,000",
     "image": "Horned Hercules",
     "availability": {
       "hemisphere": {
@@ -1588,6 +1653,7 @@
   {
     "name": "Walking Stick",
     "location": "On trees",
+    "price": "600",
     "image": "Walking Stick",
     "availability": {
       "hemisphere": {
@@ -1603,6 +1669,7 @@
   {
     "name": "Walking Leaf",
     "location": "On ground, under trees",
+    "price": "600",
     "image": "Walking Leaf",
     "availability": {
       "hemisphere": {
@@ -1642,6 +1709,7 @@
   {
     "name": "Bagworm",
     "location": "Shaking trees",
+    "price": "600",
     "image": "Bagworm",
     "availability": {
       "hemisphere": {
@@ -1707,6 +1775,7 @@
   {
     "name": "Ant",
     "location": "On rotten food",
+    "price": "80",
     "image": "Ant",
     "availability": {
       "hemisphere": {
@@ -1772,6 +1841,7 @@
   {
     "name": "Hermit Crab",
     "location": "On beach (shell)",
+    "price": "1,000",
     "image": "Hermit Crab",
     "availability": {
       "hemisphere": {
@@ -1810,6 +1880,7 @@
   {
     "name": "Wharf Roach",
     "location": "On beach rocks",
+    "price": "200",
     "image": "Wharf Roach",
     "availability": {
       "hemisphere": {
@@ -1875,6 +1946,7 @@
   {
     "name": "Fly",
     "location": "On rotten food or garbage",
+    "price": "60",
     "image": "Fly",
     "availability": {
       "hemisphere": {
@@ -1940,6 +2012,7 @@
   {
     "name": "Mosquito",
     "location": "Flying",
+    "price": "130",
     "image": "Mosquito",
     "availability": {
       "hemisphere": {
@@ -1952,6 +2025,7 @@
   {
     "name": "Flea",
     "location": "On villagers",
+    "price": "70",
     "image": "Flea",
     "availability": {
       "hemisphere": {
@@ -2009,6 +2083,7 @@
   {
     "name": "Snail",
     "location": "On rocks or shrubs (rain)",
+    "price": "250",
     "image": "Snail",
     "availability": {
       "hemisphere": {
@@ -2074,6 +2149,7 @@
   {
     "name": "Pill Bug",
     "location": "Hitting rocks",
+    "price": "250",
     "image": "Pill Bug",
     "availability": {
       "hemisphere": {
@@ -2108,6 +2184,7 @@
   {
     "name": "Centipede",
     "location": "Hitting rocks",
+    "price": "300",
     "image": "Centipede",
     "availability": {
       "hemisphere": {
@@ -2141,6 +2218,7 @@
   {
     "name": "Spider",
     "location": "Shaking trees",
+    "price": "480",
     "image": "Spider",
     "availability": {
       "hemisphere": {
@@ -2179,6 +2257,7 @@
   {
     "name": "Tarantula",
     "location": "On ground",
+    "price": "8,000",
     "image": "Tarantula",
     "availability": {
       "hemisphere": {
@@ -2198,6 +2277,7 @@
   {
     "name": "Scorpion",
     "location": "On ground",
+    "price": "8,000",
     "image": "Scorpion",
     "availability": {
       "hemisphere": {
