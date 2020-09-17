@@ -1,5 +1,6 @@
 import React from "react";
-import styled from "styled-components";
+
+import { TimeDateWrap } from '../../Elements/TimeDateWrap/TimeDateWrap'
 
 class Time extends React.Component {
   constructor(props) {
@@ -46,18 +47,7 @@ class Time extends React.Component {
     };
   }
   render() {
-    const media = { desktop: "@media(min-width: 1000px)" };
-
-    const TimeDateWrap = styled.div`
-      text-align: center;
-      margin-bottom: 16px;
-
-      ${media.desktop} {
-        margin-bottom: 0;
-        padding-right: 36px;
-      }
-    `;
-
+    
     return (
       <TimeDateWrap>
         Your local time is <strong>{this.state.time}</strong> on{" "}

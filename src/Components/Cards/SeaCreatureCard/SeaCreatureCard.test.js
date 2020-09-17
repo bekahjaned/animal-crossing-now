@@ -1,23 +1,21 @@
 import React from "react";
 import renderer from "react-test-renderer";
 
-import FishCard from "./index";
+import SeaCreatureCard from "./index";
 
-it("renders a FishCard", () => {
+it("renders a SeaCreatureCard", () => {
   // given
-  const image = "Squid";
-  const name = "Squid";
-  const location = "Sea";
-  const availability = "all day";
-  const price = "500";
+  const image = "Horseshoe Crab";
+  const name = "Horseshoe Crab";
+  const availability = "9pm - 4am";
+  const price = "2,500";
 
   // when
   const tree = renderer
     .create(
-      <FishCard
+      <SeaCreatureCard
         image={image}
         name={name}
-        location={location}
         availability={availability}
         price={price}
       />

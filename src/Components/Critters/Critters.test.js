@@ -3,7 +3,7 @@ import renderer from "react-test-renderer";
 
 import Critters from "./index";
 
-it("renders multiple FishCards and BugCards", () => {
+it("renders multiple critter cards", () => {
   // given
   const allAvailableFish = [
     {
@@ -175,12 +175,59 @@ it("renders multiple FishCards and BugCards", () => {
     },
   ];
 
+  const allAvailableSeaCreatures = [
+    {
+      name: "Seaweed",
+      price: "600",
+      image: "Seaweed",
+      availability: {
+        hours: [
+          [0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23]
+        ]
+      }
+    },
+    {
+      name: "Horseshoe Crab",
+      price: "2,500",
+      image: "Horseshoe Crab",
+      availability: {
+        hours: [
+          [21, 22, 23, 0, 1, 2, 3, 4]
+        ]
+      }
+    },
+  ]
+
   //   when
   const tree = renderer
     .create(
       <Critters
         allAvailableFish={allAvailableFish}
         allAvailableBugs={allAvailableBugs}
+        allAvailableSeaCreatures={allAvailableSeaCreatures}
       />
     )
     .toJSON();

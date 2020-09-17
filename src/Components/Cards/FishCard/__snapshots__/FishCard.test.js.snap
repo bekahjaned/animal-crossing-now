@@ -20,7 +20,7 @@ exports[`renders a FishCard 1`] = `
     className="availability"
   >
     Available: 
-    0 - 23
+    all day
   </p>
   <p>
     Price: 
