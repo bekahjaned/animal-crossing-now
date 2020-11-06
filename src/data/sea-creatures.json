@@ -1,0 +1,1603 @@
+[
+  {
+    "name": "Seaweed",
+    "price": "600",
+    "image": "Seaweed",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "October",
+          "November",
+          "December",
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July"
+        ],
+        "southern": [
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December",
+          "January"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Grapes",
+    "price": "900",
+    "image": "Sea Grapes",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["December", "January", "February", "March"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Cucumber",
+    "price": "500",
+    "image": "Sea Cucumber",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "November",
+          "December",
+          "January",
+          "February",
+          "March",
+          "April"
+        ],
+        "southern": ["May", "June", "July", "August", "September", "October"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Pig",
+    "price": "10,000",
+    "image": "Sea Pig",
+    "availability": {
+      "hemisphere": {
+        "northern": ["November", "December", "January", "February"],
+        "southern": ["May", "June", "July", "August"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Star",
+    "price": "500",
+    "image": "Sea Star",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Urchin",
+    "price": "1,700",
+    "image": "Sea Urchin",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["November", "December", "January", "February", "March"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Slate Pencil Urchin",
+    "price": "2,000",
+    "image": "Slate Pencil Urchin",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["November", "December", "January", "February", "March"]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Sea Anemone",
+    "price": "500",
+    "image": "Sea Anemone",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Moon Jellyfish",
+    "price": "600",
+    "image": "Moon Jellyfish",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sea Slug",
+    "price": "600",
+    "image": "Sea Slug",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Pearl Oyster",
+    "price": "2,800",
+    "image": "Pearl Oyster",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Mussel",
+    "price": "1,500",
+    "image": "Mussel",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "December",
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Oyster",
+    "price": "1,100",
+    "image": "Oyster",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "September",
+          "October",
+          "November",
+          "December",
+          "January",
+          "February"
+        ],
+        "southern": ["March", "April", "May", "June", "July", "August"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Scallop",
+    "price": "1,200",
+    "image": "Scallop",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Whelk",
+    "price": "1,000",
+    "image": "Whelk",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Turban Shell",
+    "price": "1,000",
+    "image": "Turban Shell",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Abalone",
+    "price": "2,000",
+    "image": "Abalone",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December",
+          "January"
+        ],
+        "southern": [
+          "December",
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July"
+        ]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Gigas Giant Clam",
+    "price": "15,000",
+    "image": "Gigas Giant Clam",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September"],
+        "southern": ["November", "December", "January", "February", "March"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Chambered Nautilus",
+    "price": "1,800",
+    "image": "Chambered Nautilus",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "June",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Octopus",
+    "price": "1,200",
+    "image": "Octopus",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Umbrella Octopus",
+    "price": "6,000",
+    "image": "Umbrella Octopus",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": [
+          "March",
+          "April",
+          "May",
+          "September",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Vampire Squid",
+    "price": "10,000",
+    "image": "Vampire Squid",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August"],
+        "southern": ["November", "December", "January", "February"]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Firefly Squid",
+    "price": "1,400",
+    "image": "Firefly Squid",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April", "May", "June"],
+        "southern": ["September", "October", "November", "December"]
+      },
+      "hours": [[21, 22, 23, 0, 1, 2, 3, 4]]
+    }
+  },
+  {
+    "name": "Gazami Crab",
+    "price": "2,200",
+    "image": "Gazami Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "southern": ["December", "January", "February", "March", "April", "May"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Dungeness Crab",
+    "price": "1,900",
+    "image": "Dungeness Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "November",
+          "December",
+          "January",
+          "February",
+          "March",
+          "April",
+          "May"
+        ],
+        "southern": [
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Snow Crab",
+    "price": "6,000",
+    "image": "Snow Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": ["November", "December", "January", "March", "April"],
+        "southern": ["May", "June", "July", "August", "September", "October"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Red King Crab",
+    "price": "8,000",
+    "image": "Red King Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": ["November", "December", "January", "February", "March"],
+        "southern": ["May", "June", "July", "August", "September"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Acorn Barnacle",
+    "price": "600",
+    "image": "Acorn Barnacle",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Spider Crab",
+    "price": "12,000",
+    "image": "Spider Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": ["March", "April"],
+        "southern": ["September", "October"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Tiger Prawn",
+    "price": "3,000",
+    "image": "Tiger Prawn",
+    "availability": {
+      "hemisphere": {
+        "northern": ["June", "July", "August", "September"],
+        "southern": ["December", "January", "February", "March"]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Sweet Shrimp",
+    "price": "1,400",
+    "image": "Sweet Shrimp",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "September",
+          "October",
+          "November",
+          "December",
+          "January",
+          "February"
+        ],
+        "southern": ["March", "April", "May", "June", "July", "August"]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Mantis Shrimp",
+    "price": "2,500",
+    "image": "Mantis Shrimp",
+    "availability": {
+      "hemisphere": {
+        "northern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "southern": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Spiny Lobster",
+    "price": "5,000",
+    "image": "Spiny Lobster",
+    "availability": {
+      "hemisphere": {
+        "northern": ["October", "November", "December"],
+        "southern": ["April", "May", "June"]
+      },
+      "hours": [[21, 22, 23, 0, 1, 2, 3, 4]]
+    }
+  },
+  {
+    "name": "Lobster",
+    "price": "4,500",
+    "image": "Lobster",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "December", "January"],
+        "southern": ["June", "July", "October", "November"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Giant Isopod",
+    "price": "12,000",
+    "image": "Giant Isopod",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September", "October"],
+        "southern": ["January", "February", "March", "April"]
+      },
+      "hours": [
+        [9, 10, 11, 12, 13, 14, 15, 16],
+        [21, 22, 23, 0, 1, 2, 3, 4]
+      ]
+    }
+  },
+  {
+    "name": "Horseshoe Crab",
+    "price": "2,500",
+    "image": "Horseshoe Crab",
+    "availability": {
+      "hemisphere": {
+        "northern": ["July", "August", "September"],
+        "southern": ["January", "February", "March"]
+      },
+      "hours": [[21, 22, 23, 0, 1, 2, 3, 4]]
+    }
+  },
+  {
+    "name": "Pineapple",
+    "price": "1,500",
+    "image": "Sea Pineapple",
+    "availability": {
+      "hemisphere": {
+        "northern": ["April", "May", "June", "July", "August"],
+        "southern": ["October", "November", "December", "January", "February"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Spotted Garden Eel",
+    "price": "1,000",
+    "image": "Spotted Garden Eel",
+    "availability": {
+      "hemisphere": {
+        "northern": ["May", "June", "July", "August", "September", "October"],
+        "southern": [
+          "November",
+          "December",
+          "January",
+          "February",
+          "March",
+          "April"
+        ]
+      },
+      "hours": [
+        [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+      ]
+    }
+  },
+  {
+    "name": "Flatworm",
+    "price": "700",
+    "image": "Flatworm",
+    "availability": {
+      "hemisphere": {
+        "northern": ["August", "September"],
+        "southern": ["February", "March"]
+      },
+      "hours": [[16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+    }
+  },
+  {
+    "name": "Venus' Flower Basket",
+    "price": "5,000",
+    "image": "Venus' Flower Basket",
+    "availability": {
+      "hemisphere": {
+        "northern": ["October", "November", "December", "January", "February"],
+        "southern": ["April", "May", "June", "July", "August"]
+      },
+      "hours": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    }
+  }
+]

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders multiple FishCards and BugCards 1`] = `
+exports[`renders multiple critter cards 1`] = `
 <div>
   <h3
     className="sc-AxjAm fAGSgP"
@@ -178,6 +178,63 @@ exports[`renders multiple FishCards and BugCards 1`] = `
       <p>
         Price: 
         550
+         Bells
+      </p>
+    </div>
+  </div>
+  <h3
+    className="sc-AxjAm fAGSgP"
+  >
+    Sea Creatures available now
+  </h3>
+  <div
+    className="sc-AxirZ LKZry"
+  >
+    <div
+      className="critter"
+    >
+      <img
+        alt="sea creature"
+        src="Seaweed.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Seaweed
+      </p>
+      <p
+        className="availability"
+      >
+        Available: 
+        all day
+      </p>
+      <p>
+        Price: 
+        600
+         Bells
+      </p>
+    </div>
+    <div
+      className="critter"
+    >
+      <img
+        alt="sea creature"
+        src="Horseshoe Crab.png"
+      />
+      <p
+        className="critter-name"
+      >
+        Horseshoe Crab
+      </p>
+      <p
+        className="availability"
+      >
+        Available: 
+        9pm - 4am
+      </p>
+      <p>
+        Price: 
+        2,500
          Bells
       </p>
     </div>

@@ -9,6 +9,7 @@ import { Select } from "../../Elements/Select/";
 
 import fishes from "../../data/fishes.json";
 import bugs from "../../data/bugs.json";
+import seaCreatures from "../../data/sea-creatures.json";
 
 class Display extends React.Component {
   constructor(props) {
@@ -38,6 +39,7 @@ class Display extends React.Component {
       },
       fishes: fishes,
       bugs: bugs,
+      seaCreatures: seaCreatures,
     };
   }
 
@@ -52,13 +54,14 @@ class Display extends React.Component {
     }));
   };
 
-  getFishAvailability = (userMonth, userTime) => {
-    const availableFish = this.state.fishes.filter((fish) => {
-      const { hemisphere, hours } = fish.availability;
-      if (hours.length === 2) {
+  getCritterAvailability = (critters, userMonth, userTime) => {
+    const availableCritters = critters.filter((critter) => {
+      const { hemisphere, hours } = critter.availability;
+
+      if(hours.length ===2) {
         return (
           (hemisphere[this.state.user.hemisphere].includes(userMonth) &&
-            hours[0].includes(userTime)) ||
+          hours[0].includes(userTime)) || 
           hours[1].includes(userTime)
         );
       } else {
@@ -68,33 +71,15 @@ class Display extends React.Component {
         );
       }
     });
-    return availableFish;
-  };
-
-  getBugAvailability = (userMonth, userTime) => {
-    const availableBugs = this.state.bugs.filter((bug) => {
-      const { hemisphere, hours } = bug.availability;
-
-      if (hours.length === 2) {
-        return (
-          (hemisphere[this.state.user.hemisphere].includes(userMonth) &&
-            hours[0].includes(userTime)) ||
-          hours[1].includes(userTime)
-        );
-      } else {
-        return (
-          hemisphere[this.state.user.hemisphere].includes(userMonth) &&
-          hours[0].includes(userTime)
-        );
-      }
-    });
-    return availableBugs;
-  };
+    return availableCritters;
+  }
 
   render() {
+    const { fishes, bugs, seaCreatures } = this.state
     const { month, time } = this.state.user;
-    const allAvailableFish = this.getFishAvailability(month, time);
-    const allAvailableBugs = this.getBugAvailability(month, time);
+    const allAvailableFish = this.getCritterAvailability(fishes, month, time);
+    const allAvailableBugs = this.getCritterAvailability(bugs, month, time);
+    const allAvailableSeaCreatures = this.getCritterAvailability(seaCreatures, month, time);
 
     return (
       <DisplayWrap>
@@ -111,6 +96,7 @@ class Display extends React.Component {
         <Critters
           allAvailableFish={allAvailableFish}
           allAvailableBugs={allAvailableBugs}
+          allAvailableSeaCreatures={allAvailableSeaCreatures}
         />
       </DisplayWrap>
     );
