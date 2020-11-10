@@ -54,7 +54,6 @@ class Display extends React.Component {
     }));
   };
 
-  // this happened
   getCritterAvailability = (critters, userMonth, userTime) => {
     const availableCritters = critters.filter((critter) => {
       const { hemisphere, hours } = critter.availability;
@@ -74,7 +73,6 @@ class Display extends React.Component {
     });
     return availableCritters;
   }
-  // do that
 
   render() {
     const { fishes, bugs, seaCreatures } = this.state
