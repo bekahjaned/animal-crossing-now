@@ -74,6 +74,7 @@ class Display extends React.Component {
     });
     return availableCritters;
   }
+  // do that
 
   render() {
     const { fishes, bugs, seaCreatures } = this.state
