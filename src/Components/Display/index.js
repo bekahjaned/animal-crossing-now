@@ -58,7 +58,7 @@ class Display extends React.Component {
     const availableCritters = critters.filter((critter) => {
       const { hemisphere, hours } = critter.availability;
 
-      if(hours.length ===2) {
+      if(hours.length === 2) {
         return (
           (hemisphere[this.state.user.hemisphere].includes(userMonth) &&
           hours[0].includes(userTime)) || 
