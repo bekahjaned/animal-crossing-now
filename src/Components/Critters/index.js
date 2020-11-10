@@ -18,6 +18,8 @@ class Critters extends React.Component {
         if (hour.length === 24) {
           availableTime = "all day";
         } else {
+          // TODO
+          // can change to helper function -> get 12 hour time
           const AmOrPm1 = hour[0] >= 12 ? "pm" : "am";
           hour[0] = hour[0] % 12 || 12;
 
