@@ -43,15 +43,16 @@ class Display extends React.Component {
     };
   }
 
-  handleChange = (event) => {
+  handleChange = async(event) => {
     const e = event.target.value;
 
-    this.setState((prevState) => ({
+    await this.setState((prevState) => ({
       user: {
         ...prevState.user,
         hemisphere: e,
       },
     }));
+    console.log(this.state.user.hemisphere)
   };
 
   getCritterAvailability = (critters, userMonth, userTime) => {

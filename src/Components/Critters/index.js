@@ -7,6 +7,8 @@ import SeaCreatureCard from "../Cards/SeaCreatureCard";
 import { CritterDisplay } from "../../Elements/CritterDisplay/";
 import { CritterGrid } from "../../Elements/CritterGrid/";
 
+// TODO
+// Change to a functional component
 class Critters extends React.Component {
   render() {
     const { allAvailableFish, allAvailableBugs, allAvailableSeaCreatures } = this.props
@@ -60,6 +62,7 @@ class Critters extends React.Component {
       const { hours } = availability;
       const availableTime = getAvailableTime(hours);
 
+      
       return (
         <BugCard
           image={image}
