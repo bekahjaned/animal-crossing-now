@@ -1,6 +1,8 @@
 import React from "react";
 import "../index.css";
 
+// TODO
+// Change to a functional component
 class SeaCreatureCard extends React.Component {
   render() {
     const { image, name, availability, price } = this.props;
