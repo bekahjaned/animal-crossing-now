@@ -4,7 +4,6 @@ import "../App/index.css";
 import { ContentWrap } from "../../Elements/ContentWrap/";
 import { Header } from "../../Elements/Header/";
 import Display from "../../Components/Display";
-import { Footer } from "../../Elements/Footer/";
 
 function App() {
   return (
@@ -17,18 +16,6 @@ function App() {
         </p>
       </Header>
       <Display />
-      <Footer>
-        <a
-          className="bmc-button"
-          href="https://www.buymeacoffee.com/mannyandrebekah"
-        >
-          <img
-            src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
-            alt="Buy us a coffee"
-          />
-          <span>Buy us a coffee?</span>
-        </a>
-      </Footer>
     </ContentWrap>
   );
 }
